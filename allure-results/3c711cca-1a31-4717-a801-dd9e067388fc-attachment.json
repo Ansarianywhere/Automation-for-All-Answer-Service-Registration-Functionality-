@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//*[@class='btn btn-fill full-btn'])[1]\"}\n  (Session info: chrome=102.0.5005.62)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x002BB8F3+2406643]\n\tOrdinal0 [0x0024AF31+1945393]\n\tOrdinal0 [0x0013C748+837448]\n\tOrdinal0 [0x001692E0+1020640]\n\tOrdinal0 [0x0016957B+1021307]\n\tOrdinal0 [0x00196372+1205106]\n\tOrdinal0 [0x001842C4+1131204]\n\tOrdinal0 [0x00194682+1197698]\n\tOrdinal0 [0x00184096+1130646]\n\tOrdinal0 [0x0015E636+976438]\n\tOrdinal0 [0x0015F546+980294]\n\tGetHandleVerifier [0x00529612+2498066]\n\tGetHandleVerifier [0x0051C920+2445600]\n\tGetHandleVerifier [0x00354F2A+579370]\n\tGetHandleVerifier [0x00353D36+574774]\n\tOrdinal0 [0x00251C0B+1973259]\n\tOrdinal0 [0x00256688+1992328]\n\tOrdinal0 [0x00256775+1992565]\n\tOrdinal0 [0x0025F8D1+2029777]\n\tBaseThreadInitThunk [0x772338F4+36]\n\tRtlUnicodeStringToInteger [0x77985E13+595]\n\tRtlUnicodeStringToInteger [0x77985DDE+542]\n\t(No symbol) [0x00000000]\n"
+}

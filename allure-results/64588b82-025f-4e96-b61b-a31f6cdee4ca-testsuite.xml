@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1653892135920' stop='1653892150619'>
+    <name>Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data</name>
+    <title>Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data</title>
+    <test-cases>
+        <test-case start='1653892135922' status='passed' stop='1653892135926'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.62'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1653892135927' status='passed' stop='1653892141622'>
+            <name>Given I am on the home page</name>
+            <title>Given I am on the home page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.62'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1653892141622' status='passed' stop='1653892142697'>
+            <name>When I Navigate to the Register page and set the value for All mandantory fields</name>
+            <title>When I Navigate to the Register page and set the value for All mandantory fields</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.62'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1653892142697' status='broken' stop='1653892150614'>
+            <name>Then I click the choose plan Button and verify the given details</name>
+            <title>Then I click the choose plan Button and verify the given details</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.62'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>element click intercepted: element click intercepted: Element &lt;a href="https://signup.staging.answerforce.co.uk/signup?leadUniquePin=c9f2bfce-efae-4029-85b3-dd79509749aa&amp;amp;agentpeopleid=f0244895-e6ff-4347-8e99-cc9302a9882a&amp;amp;testcreditcard=true&amp;amp;planid=4832&amp;amp;category=LiveAnswer" class="cta trial-cta" id="growth-purchase-link">...&lt;/a> is not clickable at point (294, 570). Other element would receive the click: &lt;div role="banner" class="cookie-pop desktop show" id="cookie-banner">...&lt;/div></message>
+                <stack-trace>element click intercepted: element click intercepted: Element &lt;a href="https://signup.staging.answerforce.co.uk/signup?leadUniquePin=c9f2bfce-efae-4029-85b3-dd79509749aa&amp;amp;agentpeopleid=f0244895-e6ff-4347-8e99-cc9302a9882a&amp;amp;testcreditcard=true&amp;amp;planid=4832&amp;amp;category=LiveAnswer" class="cta trial-cta" id="growth-purchase-link">...&lt;/a> is not clickable at point (294, 570). Other element would receive the click: &lt;div role="banner" class="cookie-pop desktop show" id="cookie-banner">...&lt;/div>
+                  (Session info: chrome=102.0.5005.62)
+                    at getErrorFromResponseBody (F:\LearnAutomationPractice\node_modules\webdriver\build\utils.js:197:12)
+                    at NodeJSRequest._request (F:\LearnAutomationPractice\node_modules\webdriver\build\request\index.js:166:60)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at Element.wrapCommandFn (F:\LearnAutomationPractice\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at Element.wrapCommandFn (F:\LearnAutomationPractice\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at Element.elementErrorHandlerCallbackFn (F:\LearnAutomationPractice\node_modules\webdriverio\build\middlewares.js:24:32)
+                    at Element.wrapCommandFn (F:\LearnAutomationPractice\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at Element.wrapCommandFn (F:\LearnAutomationPractice\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at Element.elementErrorHandlerCallbackFn (F:\LearnAutomationPractice\node_modules\webdriverio\build\middlewares.js:24:32)
+                    at Element.wrapCommandFn (F:\LearnAutomationPractice\node_modules\@wdio\utils\build\shim.js:137:29)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1653892150615' status='passed' stop='1653892150617'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.62'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//*[@class='button button--primary button--lg text--bold mb-5 mb-reset-d'])"
+}
