@@ -70,7 +70,7 @@ class Registration {
      //AnswerConnect_CA
      async registrationData_For_AC_CA(name,email,phone){
 
-       await this.registration_For_AnswerConnet(name,email,phone); // AC(UK) and AC(CA) both elemenet and method are same so i reuse AC(UK) method
+       await this.registration_For_AnswerConnetUK(name,email,phone); // AC(UK) and AC(CA) both elemenet and method are same so i reuse AC(UK) method
      }
 
      //Lexreceptions
