@@ -1,0 +1,102 @@
+{
+  "uid" : "b33b27bd1b6665a5",
+  "name" : "",
+  "fullName" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data.",
+  "historyId" : "2a0293e9b0b65396ccdad1f2a84c0b91",
+  "time" : {
+    "start" : 1653853975998,
+    "stop" : 1653853976003,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1652dffa5a7bcadf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653853946588,
+        "stop" : 1653853946592,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "bb4ab375efc7f234",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653853805862,
+        "stop" : 1653853805867,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "5084af5b8aecca6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653853777880,
+        "stop" : 1653853777884,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "4c7344a44fca2929",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653853694490,
+        "stop" : 1653853694493,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "cab84242cf1d7521",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653853682285,
+        "stop" : 1653853682290,
+        "duration" : 5
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b33b27bd1b6665a5.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

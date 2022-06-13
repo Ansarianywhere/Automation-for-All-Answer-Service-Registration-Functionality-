@@ -1,0 +1,154 @@
+{
+  "uid" : "cb69ff1593b514a0",
+  "name" : "Given I am on the home page",
+  "fullName" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data.Given I am on the home page",
+  "historyId" : "46c741b878133eb8078efd5153264a2a",
+  "time" : {
+    "start" : 1653466474855,
+    "stop" : 1653466479490,
+    "duration" : 4635
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1653466474862,
+        "stop" : 1653466479445,
+        "duration" : 4583
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "POST /session/:sessionId/element",
+        "time" : {
+          "start" : 1653466474883,
+          "stop" : 1653466479244,
+          "duration" : 4361
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "POST /session/:sessionId/window/maximize",
+          "time" : {
+            "start" : 1653466474893,
+            "stop" : 1653466478942,
+            "duration" : 4049
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 0,
+          "stepsCount" : 0,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "b0e624d37a72590b",
+          "name" : "Request",
+          "source" : "b0e624d37a72590b.json",
+          "type" : "application/json",
+          "size" : 77
+        }, {
+          "uid" : "510c27705f39ebc7",
+          "name" : "Response",
+          "source" : "510c27705f39ebc7.json",
+          "type" : "application/json",
+          "size" : 58
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 2,
+        "stepsCount" : 1,
+        "hasContent" : true
+      } ],
+      "attachments" : [ {
+        "uid" : "934298208b6b43f0",
+        "name" : "Request",
+        "source" : "934298208b6b43f0.json",
+        "type" : "application/json",
+        "size" : 61
+      }, {
+        "uid" : "cf76dc1187f76fcb",
+        "name" : "Response",
+        "source" : "cf76dc1187f76fcb.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4,
+      "stepsCount" : 2,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/13d0ca50-8103-43a8-839b-84a54877b2a3/click",
+      "time" : {
+        "start" : 1653466479476,
+        "stop" : 0,
+        "duration" : -1653466479476
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb69ff1593b514a0.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

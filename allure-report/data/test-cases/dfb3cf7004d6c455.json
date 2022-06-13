@@ -1,0 +1,60 @@
+{
+  "uid" : "dfb3cf7004d6c455",
+  "name" : "",
+  "fullName" : "Registration functionlity for Answerforce US: Register in AnsewerForce with valid data.",
+  "historyId" : "9e4a38e7a8eaf2ad5e4bdf499a5859e9",
+  "time" : {
+    "start" : 1654598588752,
+    "stop" : 1654598588756,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dfb3cf7004d6c455.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

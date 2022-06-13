@@ -1,0 +1,62 @@
+{
+  "uid" : "57bda7875f2aa261",
+  "name" : "When I set the value for All mandantory fields",
+  "fullName" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data.When I set the value for All mandantory fields",
+  "historyId" : "101984895136362a7f6af8edcb24cf70",
+  "time" : {
+    "start" : 1654670002164,
+    "stop" : 1654670012495,
+    "duration" : 10331
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Error: Can't call click on element with selector \"(//a[text()='Plans & Pricing'])[2]\" because element wasn't found",
+  "statusTrace" : "Error: Can't call click on element with selector \"(//a[text()='Plans & Pricing'])[2]\" because element wasn't found\n                    at implicitWait (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:34:19)\n                    at Element.elementErrorHandlerCallbackFn (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\middlewares.js:20:29)\n                    at Element.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I set the value for All mandantory fields"
+  }, {
+    "name" : "package",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57bda7875f2aa261.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

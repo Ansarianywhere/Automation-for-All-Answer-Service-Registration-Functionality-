@@ -1,0 +1,62 @@
+{
+  "uid" : "f33af63785eed7de",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "ff5dd53189c42fd0652d4043b5215441",
+  "time" : {
+    "start" : 1653854446899,
+    "stop" : 1653854459440,
+    "duration" : 12541
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: expected 'Full' to equal Promise{…}",
+  "statusTrace" : "AssertionError: expected 'Full' to equal Promise{…}\n                    at ChoosePlan_Singup.verify_All_RegistrationData_For_WellReceived (F:\\LearnAutomationPractice\\pageobjects\\/Plans.page.js:120:16)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at World.<anonymous> (F:\\LearnAutomationPractice\\step-definitions\\Registration\\/WellReceived_Register.js:23:4)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f33af63785eed7de.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

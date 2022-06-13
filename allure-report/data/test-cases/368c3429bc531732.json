@@ -1,0 +1,62 @@
+{
+  "uid" : "368c3429bc531732",
+  "name" : "Given I am on the home page",
+  "fullName" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data.Given I am on the home page",
+  "historyId" : "d3d3d902dcc63e413a3b5e3a64b3f7b4",
+  "time" : {
+    "start" : 1653891261250,
+    "stop" : 1653891264441,
+    "duration" : 3191
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element not interactable: element not interactable",
+  "statusTrace" : "element not interactable: element not interactable\n                  (Session info: chrome=102.0.5005.62)\n                    at getErrorFromResponseBody (F:\\LearnAutomationPractice\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (F:\\LearnAutomationPractice\\node_modules\\webdriver\\build\\request\\index.js:166:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Element.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Element.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Element.elementErrorHandlerCallbackFn (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\middlewares.js:24:32)\n                    at Element.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Element.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Element.elementErrorHandlerCallbackFn (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\middlewares.js:24:32)\n                    at Element.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "368c3429bc531732.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

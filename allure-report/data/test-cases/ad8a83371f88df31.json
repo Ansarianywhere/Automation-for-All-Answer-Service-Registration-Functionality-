@@ -1,0 +1,224 @@
+{
+  "uid" : "ad8a83371f88df31",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "843f5c5f7290a51870f52e3516fe163f",
+  "time" : {
+    "start" : 1653893340166,
+    "stop" : 1653893359280,
+    "duration" : 19114
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: expected 7538812986 to equal null",
+  "statusTrace" : "AssertionError: expected 7538812986 to equal null\n                    at ChoosePlan_Singup.verify_All_RegistrationData_For_AF_UK (F:\\LearnAutomationPractice\\pageobjects\\/Plans.page.js:38:16)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at World.<anonymous> (F:\\LearnAutomationPractice\\step-definitions\\Registration\\/AnswerForceUK_Registration.js:21:8)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 19,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "67ba81624f8a96a7",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected 7538812986 to equal null",
+      "time" : {
+        "start" : 1653893121657,
+        "stop" : 1653893148191,
+        "duration" : 26534
+      }
+    }, {
+      "uid" : "cbbc508be6c32ffc",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1653892396762,
+        "stop" : 1653892410230,
+        "duration" : 13468
+      }
+    }, {
+      "uid" : "caf75398217c0150",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: element click intercepted: Element <a href=\"https://signup.staging.answerforce.co.uk/signup?leadUniquePin=c9f2bfce-efae-4029-85b3-dd79509749aa&amp;agentpeopleid=f0244895-e6ff-4347-8e99-cc9302a9882a&amp;testcreditcard=true&amp;planid=4832&amp;category=LiveAnswer\" class=\"cta trial-cta\" id=\"growth-purchase-link\">...</a> is not clickable at point (294, 570). Other element would receive the click: <div role=\"banner\" class=\"cookie-pop desktop show\" id=\"cookie-banner\">...</div>",
+      "time" : {
+        "start" : 1653892142697,
+        "stop" : 1653892150614,
+        "duration" : 7917
+      }
+    }, {
+      "uid" : "9f5eeef42bbc63a7",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: element click intercepted: Element <a href=\"https://signup.staging.answerforce.co.uk/signup?leadUniquePin=19e09693-ed50-4866-9112-3c4e1c5c7172&amp;agentpeopleid=f0244895-e6ff-4347-8e99-cc9302a9882a&amp;testcreditcard=true&amp;planid=4832&amp;category=LiveAnswer\" class=\"cta trial-cta\" id=\"growth-purchase-link\">...</a> is not clickable at point (294, 586). Other element would receive the click: <div role=\"banner\" class=\"cookie-pop desktop show\" id=\"cookie-banner\">...</div>",
+      "time" : {
+        "start" : 1653892018956,
+        "stop" : 1653892028533,
+        "duration" : 9577
+      }
+    }, {
+      "uid" : "b9ce598bffea4c25",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653891682972,
+        "stop" : 1653891682973,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "96c32e65090a9693",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653891486190,
+        "stop" : 1653891486191,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f5d00defc571f664",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653891264443,
+        "stop" : 1653891264443,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c609307908b4393f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653891130115,
+        "stop" : 1653891130115,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "262c5d18732d6a2e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653890947903,
+        "stop" : 1653890947904,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e30af911a45c1e89",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653848404754,
+        "stop" : 1653848404755,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c2a1cd0582c5e1f5",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653848134794,
+        "stop" : 1653848134795,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d29736dd7ab4b15a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653847894952,
+        "stop" : 1653847894953,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "90d4268dccbdf881",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653847741965,
+        "stop" : 1653847741966,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fae56930fcd09dd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653847491737,
+        "stop" : 1653847491747,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "5d99cc88e5870209",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653611039,
+        "stop" : 1653653611049,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "13fac8103cc28812",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653481042,
+        "stop" : 1653653481055,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "844d2cb0d3f5ea07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653293776,
+        "stop" : 1653653293786,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "16a896f2edcab899",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653165794,
+        "stop" : 1653653165805,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "477c40ef79342ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653079014,
+        "stop" : 1653653079024,
+        "duration" : 10
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ad8a83371f88df31.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

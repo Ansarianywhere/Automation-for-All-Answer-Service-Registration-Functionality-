@@ -1,0 +1,78 @@
+{
+  "uid" : "3ae50b3fcfc8488",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "fullName" : "Register , Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data.When I Navigate to the Register page and set the value for All mandantory fields",
+  "historyId" : "d2f367c8e9b68bc809c082c50edb6267",
+  "time" : {
+    "start" : 1653890647579,
+    "stop" : 1653890651813,
+    "duration" : 4234
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I Navigate to the Register page and set the value for All mandantory fields"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c14f3d89b0c6ce56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890207791,
+        "stop" : 1653890212028,
+        "duration" : 4237
+      }
+    }, {
+      "uid" : "be8acb52d439765a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890110005,
+        "stop" : 1653890116125,
+        "duration" : 6120
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ae50b3fcfc8488.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

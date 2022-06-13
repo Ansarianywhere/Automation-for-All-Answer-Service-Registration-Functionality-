@@ -1,0 +1,60 @@
+{
+  "uid" : "eee6a0fc076f38a",
+  "name" : "Given I am on the home page",
+  "fullName" : "Register , Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data.Given I am on the home page",
+  "historyId" : "16f3597d3285d9a045844d0fcc57fb25",
+  "time" : {
+    "start" : 1653839559305,
+    "stop" : 1653839564907,
+    "duration" : 5602
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eee6a0fc076f38a.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

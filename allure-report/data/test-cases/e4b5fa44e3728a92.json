@@ -1,0 +1,127 @@
+{
+  "uid" : "e4b5fa44e3728a92",
+  "name" : "Given I am on the home page",
+  "fullName" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data.Given I am on the home page",
+  "historyId" : "ce5bf44c5fee5d43543b52a734a0d9ee",
+  "time" : {
+    "start" : 1653567532830,
+    "stop" : 1653567533049,
+    "duration" : 219
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1653567532838,
+        "stop" : 0,
+        "duration" : -1653567532838
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "POST /session/:sessionId/element",
+        "time" : {
+          "start" : 1653567532915,
+          "stop" : 0,
+          "duration" : -1653567532915
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "POST /session/:sessionId/window/maximize",
+          "time" : {
+            "start" : 1653567533022,
+            "stop" : 0,
+            "duration" : -1653567533022
+          },
+          "status" : "unknown",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 0,
+          "stepsCount" : 0,
+          "hasContent" : false
+        } ],
+        "attachments" : [ {
+          "uid" : "78b9b52271aff9f4",
+          "name" : "Request",
+          "source" : "78b9b52271aff9f4.json",
+          "type" : "application/json",
+          "size" : 71
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "stepsCount" : 1,
+        "hasContent" : true
+      } ],
+      "attachments" : [ {
+        "uid" : "f7064596fb293e4b",
+        "name" : "Request",
+        "source" : "f7064596fb293e4b.json",
+        "type" : "application/json",
+        "size" : 50
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 2,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4b5fa44e3728a92.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

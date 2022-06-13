@@ -1,0 +1,160 @@
+{
+  "uid" : "4bb4ce7c2b658124",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "fullName" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data.When I Navigate to the Register page and set the value for All mandantory fields",
+  "historyId" : "e946e5107cc995db1149e63813b34e17",
+  "time" : {
+    "start" : 1653556353544,
+    "stop" : 1653556361483,
+    "duration" : 7939
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653556353553,
+        "stop" : 1653556361425,
+        "duration" : 7872
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "POST /session/:sessionId/element",
+        "time" : {
+          "start" : 1653556353589,
+          "stop" : 1653556361001,
+          "duration" : 7412
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "eec98b651ed770b3",
+          "name" : "Request",
+          "source" : "eec98b651ed770b3.json",
+          "type" : "application/json",
+          "size" : 49
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "POST /session/:sessionId/element",
+        "time" : {
+          "start" : 1653556361002,
+          "stop" : 1653556361295,
+          "duration" : 293
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "5125fbe09081a3ee",
+          "name" : "Request",
+          "source" : "5125fbe09081a3ee.json",
+          "type" : "application/json",
+          "size" : 66
+        }, {
+          "uid" : "29e1063fe391d657",
+          "name" : "Response",
+          "source" : "29e1063fe391d657.json",
+          "type" : "application/json",
+          "size" : 58
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 2,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ {
+        "uid" : "c287240bb34ea687",
+        "name" : "Request",
+        "source" : "c287240bb34ea687.json",
+        "type" : "application/json",
+        "size" : 49
+      }, {
+        "uid" : "3fc33c71da5a799e",
+        "name" : "Response",
+        "source" : "3fc33c71da5a799e.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 5,
+      "stepsCount" : 2,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/ee83926d-cb06-4731-9733-c288eca2ed5f/clear",
+      "time" : {
+        "start" : 1653556361471,
+        "stop" : 0,
+        "duration" : -1653556361471
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 5,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I Navigate to the Register page and set the value for All mandantory fields"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4bb4ce7c2b658124.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

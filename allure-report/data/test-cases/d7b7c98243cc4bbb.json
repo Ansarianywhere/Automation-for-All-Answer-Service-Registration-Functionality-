@@ -1,0 +1,148 @@
+{
+  "uid" : "d7b7c98243cc4bbb",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "b391549f1da6e2aecf9c335d143e8139",
+  "time" : {
+    "start" : 1653845799769,
+    "stop" : 1653845815638,
+    "duration" : 15869
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 10,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "81e2ef7e3414293a",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"(//a[text()='Sign up'])[1]\" because element wasn't found",
+      "time" : {
+        "start" : 1653845730085,
+        "stop" : 1653845740204,
+        "duration" : 10119
+      }
+    }, {
+      "uid" : "189952ff13742876",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1653845473922,
+        "stop" : 1653845508604,
+        "duration" : 34682
+      }
+    }, {
+      "uid" : "604a6ef3cf96d6d3",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected 'Ansari ' to equal Promise{…}",
+      "time" : {
+        "start" : 1653845416138,
+        "stop" : 1653845416615,
+        "duration" : 477
+      }
+    }, {
+      "uid" : "3f648f97348ab566",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call getValue on element with selector \"#contactName\" because element wasn't found",
+      "time" : {
+        "start" : 1653844987999,
+        "stop" : 1653844998153,
+        "duration" : 10154
+      }
+    }, {
+      "uid" : "7ed15fcae8d3edb6",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call getValue on element with selector \"#contactName\" because element wasn't found",
+      "time" : {
+        "start" : 1653844752768,
+        "stop" : 1653844762923,
+        "duration" : 10155
+      }
+    }, {
+      "uid" : "e1f10514e29ba296",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _Plans.default.registrationData_For_AC_US is not a function",
+      "time" : {
+        "start" : 1653844647641,
+        "stop" : 1653844647832,
+        "duration" : 191
+      }
+    }, {
+      "uid" : "cfac93fc8633d937",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653844480385,
+        "stop" : 1653844480391,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "340de206670a454e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653844087229,
+        "stop" : 1653844087243,
+        "duration" : 14
+      }
+    }, {
+      "uid" : "d1061d0f6ad45a67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653844006062,
+        "stop" : 1653844006073,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "d88c612f35d1a02d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653843918993,
+        "stop" : 1653843919007,
+        "duration" : 14
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7b7c98243cc4bbb.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

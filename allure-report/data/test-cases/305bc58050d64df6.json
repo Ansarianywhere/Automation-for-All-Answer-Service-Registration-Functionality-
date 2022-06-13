@@ -1,0 +1,169 @@
+{
+  "uid" : "305bc58050d64df6",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "4c87c9ec822070bec510ad1b368f7d97",
+  "time" : {
+    "start" : 1653851829343,
+    "stop" : 1653851847330,
+    "duration" : 17987
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 13,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bcecf3be1edbc098",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1653851399877,
+        "stop" : 1653851416275,
+        "duration" : 16398
+      }
+    }, {
+      "uid" : "520d6eb93759681a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected 'Ansari' to equal Promise{…}",
+      "time" : {
+        "start" : 1653851236317,
+        "stop" : 1653851252386,
+        "duration" : 16069
+      }
+    }, {
+      "uid" : "d4a57d8c802bf10e",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"(//*[@class='button button--primary-outlined button--full-width button--xl'])[1]\" because element wasn't found",
+      "time" : {
+        "start" : 1653849349993,
+        "stop" : 1653849360117,
+        "duration" : 10124
+      }
+    }, {
+      "uid" : "95de5360e5220d44",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653849093120,
+        "stop" : 1653849093124,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "88e03d282a942845",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653562350016,
+        "stop" : 1653562350144,
+        "duration" : 128
+      }
+    }, {
+      "uid" : "58efad62d2ee16d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653561605522,
+        "stop" : 1653561605555,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "595c260bebf4ec5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653559710908,
+        "stop" : 1653559710957,
+        "duration" : 49
+      }
+    }, {
+      "uid" : "924120f1c3c5272",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653559503827,
+        "stop" : 1653559503846,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "5ed6dcbdfd7b0c98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653559430781,
+        "stop" : 1653559430803,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "33a3b694c2d93ad0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653559276738,
+        "stop" : 1653559276764,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "42475b3a5f682b4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653559218485,
+        "stop" : 1653559218510,
+        "duration" : 25
+      }
+    }, {
+      "uid" : "b70eabc39b7fcefb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653558798370,
+        "stop" : 1653558798402,
+        "duration" : 32
+      }
+    }, {
+      "uid" : "73ed307b2bca4123",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653558461274,
+        "stop" : 1653558461294,
+        "duration" : 20
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "305bc58050d64df6.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

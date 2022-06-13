@@ -1,0 +1,60 @@
+{
+  "uid" : "681a2b34e5a6d99f",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "bdc9207ce51553eb3a0680f7c4f074fe",
+  "time" : {
+    "start" : 1654844947751,
+    "stop" : 1654844947762,
+    "duration" : 11
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "681a2b34e5a6d99f.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

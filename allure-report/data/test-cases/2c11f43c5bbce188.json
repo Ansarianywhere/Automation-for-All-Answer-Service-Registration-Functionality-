@@ -1,0 +1,112 @@
+{
+  "uid" : "2c11f43c5bbce188",
+  "name" : "Then click the see prices Button",
+  "fullName" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data.Then click the see prices Button",
+  "historyId" : "29a5b51f38c83daee9850d9483cf64d2",
+  "time" : {
+    "start" : 1653119078402,
+    "stop" : 1653119078764,
+    "duration" : 362
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "invalid selector: invalid selector: Unable to locate an element with the xpath expression //*[@class='btn btn-fill full-btn'])[3] because of the following error:",
+  "statusTrace" : "invalid selector: invalid selector: Unable to locate an element with the xpath expression //*[@class='btn btn-fill full-btn'])[3] because of the following error:\n                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class='btn btn-fill full-btn'])[3]' is not a valid XPath expression.\n                  (Session info: chrome=101.0.4951.54)\n                    at getErrorFromResponseBody (F:\\LearnAutomationPractice\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (F:\\LearnAutomationPractice\\node_modules\\webdriver\\build\\request\\index.js:166:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Browser.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Browser.$ (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\commands\\browser\\$.js:91:17)\n                    at Browser.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Verification.Clcik_ChoosePlan (F:\\LearnAutomationPractice\\pageobjects\\/verification.js:15:16)\n                    at World.<anonymous> (F:\\LearnAutomationPractice\\step-definitions\\/register.js:29:4)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "invalid selector: invalid selector: Unable to locate an element with the xpath expression //*[@class='btn btn-fill full-btn'])[3] because of the following error:",
+    "statusTrace" : "invalid selector: invalid selector: Unable to locate an element with the xpath expression //*[@class='btn btn-fill full-btn'])[3] because of the following error:\n                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class='btn btn-fill full-btn'])[3]' is not a valid XPath expression.\n                  (Session info: chrome=101.0.4951.54)\n                    at getErrorFromResponseBody (F:\\LearnAutomationPractice\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (F:\\LearnAutomationPractice\\node_modules\\webdriver\\build\\request\\index.js:166:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Browser.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Browser.$ (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\commands\\browser\\$.js:91:17)\n                    at Browser.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Verification.Clcik_ChoosePlan (F:\\LearnAutomationPractice\\pageobjects\\/verification.js:15:16)\n                    at World.<anonymous> (F:\\LearnAutomationPractice\\step-definitions\\/register.js:29:4)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653119078406,
+        "stop" : 1653119078763,
+        "duration" : 357
+      },
+      "status" : "broken",
+      "statusMessage" : "invalid selector: invalid selector: Unable to locate an element with the xpath expression //*[@class='btn btn-fill full-btn'])[3] because of the following error:\n                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class='btn btn-fill full-btn'])[3]' is not a valid XPath expression.\n                  (Session info: chrome=101.0.4951.54)\n                    at getErrorFromResponseBody (F:\\LearnAutomationPractice\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (F:\\LearnAutomationPractice\\node_modules\\webdriver\\build\\request\\index.js:166:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Browser.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Browser.$ (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\commands\\browser\\$.js:91:17)\n                    at Browser.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Verification.Clcik_ChoosePlan (F:\\LearnAutomationPractice\\pageobjects\\/verification.js:15:16)\n                    at World.<anonymous> (F:\\LearnAutomationPractice\\step-definitions\\/register.js:29:4)",
+      "steps" : [ {
+        "name" : "GET /session/:sessionId/screenshot",
+        "time" : {
+          "start" : 1653119078755,
+          "stop" : 1653119078763,
+          "duration" : 8
+        },
+        "status" : "broken",
+        "statusMessage" : "invalid selector: invalid selector: Unable to locate an element with the xpath expression //*[@class='btn btn-fill full-btn'])[3] because of the following error:\n                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class='btn btn-fill full-btn'])[3]' is not a valid XPath expression.\n                  (Session info: chrome=101.0.4951.54)\n                    at getErrorFromResponseBody (F:\\LearnAutomationPractice\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (F:\\LearnAutomationPractice\\node_modules\\webdriver\\build\\request\\index.js:166:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Browser.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Browser.$ (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\commands\\browser\\$.js:91:17)\n                    at Browser.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Verification.Clcik_ChoosePlan (F:\\LearnAutomationPractice\\pageobjects\\/verification.js:15:16)\n                    at World.<anonymous> (F:\\LearnAutomationPractice\\step-definitions\\/register.js:29:4)",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : true,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ {
+        "uid" : "12970db6092fe316",
+        "name" : "Request",
+        "source" : "12970db6092fe316.json",
+        "type" : "application/json",
+        "size" : 76
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 1,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then click the see prices Button"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c11f43c5bbce188.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

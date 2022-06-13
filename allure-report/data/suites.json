@@ -1,0 +1,1561 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "99146f8d042852c3",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653128096195,
+        "stop" : 1653128096236,
+        "duration" : 41
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 23,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "When Navigate to the Register page",
+      "uid" : "a9d6c7698c26082a",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653128096237,
+        "stop" : 1653128103035,
+        "duration" : 6798
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 23,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then set the value of All mandantory fields",
+      "uid" : "c6e6d8a65a882ce7",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653128103036,
+        "stop" : 1653128105918,
+        "duration" : 2882
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 23,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then click the see prices Button",
+      "uid" : "32678a36d74901c",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653128105918,
+        "stop" : 1653128114127,
+        "duration" : 8209
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 23,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "",
+      "uid" : "d96fb1348384fe3a",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653128114128,
+        "stop" : 1653128114132,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 47,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.54" ]
+    }, {
+      "name" : "Then set the value of All mandantory fields",
+      "uid" : "4a1a2ffe947f172c",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653285854163,
+        "stop" : 1653285855384,
+        "duration" : 1221
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "When set the value of All mandantory fields",
+      "uid" : "437a8e232dc36d2d",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653290446440,
+        "stop" : 1653290448491,
+        "duration" : 2051
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 13,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "Then click the see prices Button",
+      "uid" : "904ce34a5d35e248",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653290448491,
+        "stop" : 1653290461708,
+        "duration" : 13217
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 18,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "When Navigate to the Register page",
+      "uid" : "55524d9ff5b7ce6c",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653312438828,
+        "stop" : 1653312446069,
+        "duration" : 7241
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 22,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "When set the value for All mandantory fields",
+      "uid" : "cdcbadd3297e169d",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653312446069,
+        "stop" : 1653312448338,
+        "duration" : 2269
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "When user Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "893dbf1b2d2ab09c",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653464587233,
+        "stop" : 1653464590211,
+        "duration" : 2978
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "Then click the see prices Button and verify the given details",
+      "uid" : "d03a47be1354b599",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653464590213,
+        "stop" : 1653464590218,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 13,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "Given I am on the home page",
+      "uid" : "ef42ab4cb9d1b8ba",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653468633929,
+        "stop" : 1653468635172,
+        "duration" : 1243
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-95.0.2" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "625c50830f6ab2a7",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653468635172,
+        "stop" : 1653468654668,
+        "duration" : 19496
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-95.0.2" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "ea6c5fde9d0265bd",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653468654669,
+        "stop" : 1653468654670,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-95.0.2" ]
+    }, {
+      "name" : "",
+      "uid" : "ca263814e2053079",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653468654670,
+        "stop" : 1653468654672,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-95.0.2" ]
+    }, {
+      "name" : "Given I am on the home page",
+      "uid" : "182b3568681d5f4",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470276151,
+        "stop" : 1653470282738,
+        "duration" : 6587
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 52,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "d5c1e037a9259c56",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470282739,
+        "stop" : 1653470289124,
+        "duration" : 6385
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 19,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "13c0dccfb296595",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "failed",
+      "time" : {
+        "start" : 1653470289126,
+        "stop" : 1653470322043,
+        "duration" : 32917
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 19,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "",
+      "uid" : "db2442f9ca1f17b",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470322044,
+        "stop" : 1653470322045,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 105,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "Given I am on the home page",
+      "uid" : "66628dab69b6afbb",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653655081041,
+        "stop" : 1653655081060,
+        "duration" : 19
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 38,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "18c78fe0a56697c1",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653655081060,
+        "stop" : 1653655088609,
+        "duration" : 7549
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 38,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "818cf8cc95ae4caa",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653655088609,
+        "stop" : 1653655101761,
+        "duration" : 13152
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 38,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "",
+      "uid" : "b948f34926db43e1",
+      "parentUid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653655101763,
+        "stop" : 1653655101766,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 77,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    } ],
+    "uid" : "09cccf3abda3097d396e6b86dc0eb1f2"
+  }, {
+    "name" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "866d8f95cc67f2b6",
+      "parentUid" : "e404156ffe214237a9f87352e36683ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653486845876,
+        "stop" : 1653486845909,
+        "duration" : 33
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "505e2c2bacf02c5c",
+      "parentUid" : "e404156ffe214237a9f87352e36683ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653486845909,
+        "stop" : 1653486846027,
+        "duration" : 118
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "3d2f19ac15427323",
+      "parentUid" : "e404156ffe214237a9f87352e36683ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653486846027,
+        "stop" : 1653486846045,
+        "duration" : 18
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "",
+      "uid" : "812d4c5a698bf8a5",
+      "parentUid" : "e404156ffe214237a9f87352e36683ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653486846045,
+        "stop" : 1653486846047,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "Given I am on the home page",
+      "uid" : "613cce01ae81e1f0",
+      "parentUid" : "e404156ffe214237a9f87352e36683ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653840311718,
+        "stop" : 1653840314716,
+        "duration" : 2998
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 35,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "af503616bb219ce1",
+      "parentUid" : "e404156ffe214237a9f87352e36683ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653840314716,
+        "stop" : 1653840317631,
+        "duration" : 2915
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 35,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "e9f045cfd9bdd5ab",
+      "parentUid" : "e404156ffe214237a9f87352e36683ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653840317631,
+        "stop" : 1653840339230,
+        "duration" : 21599
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 35,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "",
+      "uid" : "347944a08c818990",
+      "parentUid" : "e404156ffe214237a9f87352e36683ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653840339231,
+        "stop" : 1653840339234,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 71,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    } ],
+    "uid" : "e404156ffe214237a9f87352e36683ef"
+  }, {
+    "name" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "fb8c11fe07fb062f",
+      "parentUid" : "c399e6e7ee79275ea98b566f75f24d14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653845790494,
+        "stop" : 1653845796647,
+        "duration" : 6153
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "2618f02c426b9ff",
+      "parentUid" : "c399e6e7ee79275ea98b566f75f24d14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653845796648,
+        "stop" : 1653845799769,
+        "duration" : 3121
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "d7b7c98243cc4bbb",
+      "parentUid" : "c399e6e7ee79275ea98b566f75f24d14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653845799769,
+        "stop" : 1653845815638,
+        "duration" : 15869
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 10,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "",
+      "uid" : "dbaeede2cfe0869c",
+      "parentUid" : "c399e6e7ee79275ea98b566f75f24d14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653845815638,
+        "stop" : 1653845815641,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 21,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    } ],
+    "uid" : "c399e6e7ee79275ea98b566f75f24d14"
+  }, {
+    "name" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "18e40d344aca7181",
+      "parentUid" : "837e0a7bc250af75868a8dacf5b141ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653851820281,
+        "stop" : 1653851826707,
+        "duration" : 6426
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 13,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "e244c4b7705541a2",
+      "parentUid" : "837e0a7bc250af75868a8dacf5b141ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653851826707,
+        "stop" : 1653851829343,
+        "duration" : 2636
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 13,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "305bc58050d64df6",
+      "parentUid" : "837e0a7bc250af75868a8dacf5b141ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653851829343,
+        "stop" : 1653851847330,
+        "duration" : 17987
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 13,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "",
+      "uid" : "6cccfa1ba83cb93e",
+      "parentUid" : "837e0a7bc250af75868a8dacf5b141ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653851847331,
+        "stop" : 1653851847332,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 27,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    } ],
+    "uid" : "837e0a7bc250af75868a8dacf5b141ac"
+  }, {
+    "name" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "455722beedd479a",
+      "parentUid" : "5a7b310c66cc62be53276c00a0cb2e9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653853946593,
+        "stop" : 1653853946617,
+        "duration" : 24
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "140a31e79dd8bcb2",
+      "parentUid" : "5a7b310c66cc62be53276c00a0cb2e9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653853946617,
+        "stop" : 1653853954736,
+        "duration" : 8119
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "2188f420144f9893",
+      "parentUid" : "5a7b310c66cc62be53276c00a0cb2e9e",
+      "status" : "failed",
+      "time" : {
+        "start" : 1653853954737,
+        "stop" : 1653853975996,
+        "duration" : 21259
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "",
+      "uid" : "b33b27bd1b6665a5",
+      "parentUid" : "5a7b310c66cc62be53276c00a0cb2e9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653853975998,
+        "stop" : 1653853976003,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    } ],
+    "uid" : "5a7b310c66cc62be53276c00a0cb2e9e"
+  }, {
+    "name" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "3a6f2aa1f735b898",
+      "parentUid" : "55207e2ad6262a09b788014989c7c4c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653854707649,
+        "stop" : 1653854713090,
+        "duration" : 5441
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "a10412ae23702580",
+      "parentUid" : "55207e2ad6262a09b788014989c7c4c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653854713091,
+        "stop" : 1653854714661,
+        "duration" : 1570
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "ebbb0e72d32a6061",
+      "parentUid" : "55207e2ad6262a09b788014989c7c4c6",
+      "status" : "failed",
+      "time" : {
+        "start" : 1653854714661,
+        "stop" : 1653854728510,
+        "duration" : 13849
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "",
+      "uid" : "d1ec0ac355673a65",
+      "parentUid" : "55207e2ad6262a09b788014989c7c4c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653854728511,
+        "stop" : 1653854728512,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    } ],
+    "uid" : "55207e2ad6262a09b788014989c7c4c6"
+  }, {
+    "name" : "Register , Registration functionlity for Answerforce US: Register in AnsewerForce with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "ccbeabbb4f04168b",
+      "parentUid" : "a832f5167b345275c780403ee44d2887",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890356489,
+        "stop" : 1653890356504,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "10d699f088beb6c0",
+      "parentUid" : "a832f5167b345275c780403ee44d2887",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890356504,
+        "stop" : 1653890363175,
+        "duration" : 6671
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "9e88cc3ef8ec9f03",
+      "parentUid" : "a832f5167b345275c780403ee44d2887",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890363176,
+        "stop" : 1653890376025,
+        "duration" : 12849
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "",
+      "uid" : "b72ebc806ee2a375",
+      "parentUid" : "a832f5167b345275c780403ee44d2887",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890376026,
+        "stop" : 1653890376029,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "Given I am on the home page",
+      "uid" : "85b8642c975035c9",
+      "parentUid" : "a832f5167b345275c780403ee44d2887",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654593956244,
+        "stop" : 1654593956260,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "49bfbbb7de3143a7",
+      "parentUid" : "a832f5167b345275c780403ee44d2887",
+      "status" : "broken",
+      "time" : {
+        "start" : 1654593956260,
+        "stop" : 1654593959814,
+        "duration" : 3554
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "83add8a81c73c2f5",
+      "parentUid" : "a832f5167b345275c780403ee44d2887",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654593959815,
+        "stop" : 1654593959816,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "",
+      "uid" : "5b2976bee9a41d39",
+      "parentUid" : "a832f5167b345275c780403ee44d2887",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654593959817,
+        "stop" : 1654593959827,
+        "duration" : 10
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    } ],
+    "uid" : "a832f5167b345275c780403ee44d2887"
+  }, {
+    "name" : "Register , Registration functionlity for Answerforce CA: Register in AnsewerForce CA with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "8569142f69f9026d",
+      "parentUid" : "9cdd12f8078a0f5380185da8ffc4c7c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890508516,
+        "stop" : 1653890518175,
+        "duration" : 9659
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 27,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "31fd16aa76e1043f",
+      "parentUid" : "9cdd12f8078a0f5380185da8ffc4c7c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890518176,
+        "stop" : 1653890519307,
+        "duration" : 1131
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 27,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "549fab42de5743e4",
+      "parentUid" : "9cdd12f8078a0f5380185da8ffc4c7c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890519307,
+        "stop" : 1653890536477,
+        "duration" : 17170
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 27,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "",
+      "uid" : "c69c52441064d56",
+      "parentUid" : "9cdd12f8078a0f5380185da8ffc4c7c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890536478,
+        "stop" : 1653890536480,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 55,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    } ],
+    "uid" : "9cdd12f8078a0f5380185da8ffc4c7c3"
+  }, {
+    "name" : "Register , Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "f1dd8e18be595263",
+      "parentUid" : "4c49ae554d8c5adc23cdaaf9ba8dd4fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890643302,
+        "stop" : 1653890647578,
+        "duration" : 4276
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "3ae50b3fcfc8488",
+      "parentUid" : "4c49ae554d8c5adc23cdaaf9ba8dd4fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890647579,
+        "stop" : 1653890651813,
+        "duration" : 4234
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "aef80ceaff5d7a5f",
+      "parentUid" : "4c49ae554d8c5adc23cdaaf9ba8dd4fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890651813,
+        "stop" : 1653890667572,
+        "duration" : 15759
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "",
+      "uid" : "61d4baab50c8ccb6",
+      "parentUid" : "4c49ae554d8c5adc23cdaaf9ba8dd4fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890667572,
+        "stop" : 1653890667574,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    } ],
+    "uid" : "4c49ae554d8c5adc23cdaaf9ba8dd4fa"
+  }, {
+    "name" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "1ae9d713be435e83",
+      "parentUid" : "84792368d1a0b4276925c16d8a31d771",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653893331272,
+        "stop" : 1653893338417,
+        "duration" : 7145
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 19,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "f4e9e8f6cda06d22",
+      "parentUid" : "84792368d1a0b4276925c16d8a31d771",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653893338417,
+        "stop" : 1653893340166,
+        "duration" : 1749
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 19,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "ad8a83371f88df31",
+      "parentUid" : "84792368d1a0b4276925c16d8a31d771",
+      "status" : "failed",
+      "time" : {
+        "start" : 1653893340166,
+        "stop" : 1653893359280,
+        "duration" : 19114
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 19,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "",
+      "uid" : "1f46f57d78dc6fa9",
+      "parentUid" : "84792368d1a0b4276925c16d8a31d771",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653893359281,
+        "stop" : 1653893359284,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 39,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    } ],
+    "uid" : "84792368d1a0b4276925c16d8a31d771"
+  }, {
+    "name" : "Register , Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page",
+      "uid" : "731bc6a15a0333a2",
+      "parentUid" : "2b0a6b943d092f4f705861fc20d88aba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653897332654,
+        "stop" : 1653897346157,
+        "duration" : 13503
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+      "uid" : "433ce563a0ab8730",
+      "parentUid" : "2b0a6b943d092f4f705861fc20d88aba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653897346158,
+        "stop" : 1653897359346,
+        "duration" : 13188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "d2420a7955eb4c21",
+      "parentUid" : "2b0a6b943d092f4f705861fc20d88aba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653897359347,
+        "stop" : 1653897359807,
+        "duration" : 460
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    }, {
+      "name" : "",
+      "uid" : "f5d534db39d77c27",
+      "parentUid" : "2b0a6b943d092f4f705861fc20d88aba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653897359807,
+        "stop" : 1653897359809,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 19,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.62" ]
+    } ],
+    "uid" : "2b0a6b943d092f4f705861fc20d88aba"
+  }, {
+    "name" : "Registration functionlity for Answerforce US: Register in AnsewerForce with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page and I Navigate to the Register page",
+      "uid" : "c54e8c64f0e3b054",
+      "parentUid" : "d13eb4dc69dd1c9757d755b946c11810",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654598588756,
+        "stop" : 1654598588773,
+        "duration" : 17
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "When I set the value for All mandantory fields",
+      "uid" : "cde85393367f66f3",
+      "parentUid" : "d13eb4dc69dd1c9757d755b946c11810",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654598588773,
+        "stop" : 1654598598647,
+        "duration" : 9874
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "1dda62fc47d0aa24",
+      "parentUid" : "d13eb4dc69dd1c9757d755b946c11810",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654598598648,
+        "stop" : 1654598632873,
+        "duration" : 34225
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "",
+      "uid" : "9051ab8eb006699e",
+      "parentUid" : "d13eb4dc69dd1c9757d755b946c11810",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654598632873,
+        "stop" : 1654598632875,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    } ],
+    "uid" : "d13eb4dc69dd1c9757d755b946c11810"
+  }, {
+    "name" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page and I Navigate to the Register page",
+      "uid" : "a05cccbed15202a9",
+      "parentUid" : "4ad07df91360c38fcf18dc84a15f019c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654844284741,
+        "stop" : 1654844284951,
+        "duration" : 210
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 27,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "When I set the value for All mandantory fields",
+      "uid" : "846db574add6e1a9",
+      "parentUid" : "4ad07df91360c38fcf18dc84a15f019c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654844284951,
+        "stop" : 1654844284961,
+        "duration" : 10
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 27,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "e1eb526508d96dda",
+      "parentUid" : "4ad07df91360c38fcf18dc84a15f019c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654844284962,
+        "stop" : 1654844284968,
+        "duration" : 6
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 27,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "",
+      "uid" : "d044729e1150cf60",
+      "parentUid" : "4ad07df91360c38fcf18dc84a15f019c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654844284968,
+        "stop" : 1654844284970,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 55,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    } ],
+    "uid" : "4ad07df91360c38fcf18dc84a15f019c"
+  }, {
+    "name" : "Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page and I Navigate to the Register page",
+      "uid" : "108c30efe805b835",
+      "parentUid" : "bf8645e8489dded9a6608d4a290cd1ed",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654844284748,
+        "stop" : 1654844284947,
+        "duration" : 199
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "When I set the value for All mandantory fields",
+      "uid" : "9b2307b338925a0c",
+      "parentUid" : "bf8645e8489dded9a6608d4a290cd1ed",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654844284948,
+        "stop" : 1654844284960,
+        "duration" : 12
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "aced179b2d65fb11",
+      "parentUid" : "bf8645e8489dded9a6608d4a290cd1ed",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654844284960,
+        "stop" : 1654844284967,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "",
+      "uid" : "2a86258739d27a1d",
+      "parentUid" : "bf8645e8489dded9a6608d4a290cd1ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654844284967,
+        "stop" : 1654844284971,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    } ],
+    "uid" : "bf8645e8489dded9a6608d4a290cd1ed"
+  }, {
+    "name" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data",
+    "children" : [ {
+      "name" : "Given I am on the home page and I Navigate to the Register page",
+      "uid" : "1cbd1be6cb2c79ef",
+      "parentUid" : "633ad6f6089bd6a8c73e1480cadc7a20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654851898432,
+        "stop" : 1654851915088,
+        "duration" : 16656
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "When I set the value for All mandantory fields",
+      "uid" : "5efa8970775ea9fd",
+      "parentUid" : "633ad6f6089bd6a8c73e1480cadc7a20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654851915088,
+        "stop" : 1654851925653,
+        "duration" : 10565
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "Then I click the choose plan Button and verify the given details",
+      "uid" : "7ec9e81c3d8e88a8",
+      "parentUid" : "633ad6f6089bd6a8c73e1480cadc7a20",
+      "status" : "failed",
+      "time" : {
+        "start" : 1654851925654,
+        "stop" : 1654851963489,
+        "duration" : 37835
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    }, {
+      "name" : "",
+      "uid" : "b8e5fa23f494dee4",
+      "parentUid" : "633ad6f6089bd6a8c73e1480cadc7a20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654851963489,
+        "stop" : 1654851963492,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 11,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.63" ]
+    } ],
+    "uid" : "633ad6f6089bd6a8c73e1480cadc7a20"
+  } ]
+}

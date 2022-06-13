@@ -1,0 +1,60 @@
+{
+  "uid" : "3827a5fa7269fb7c",
+  "name" : "Given I am on the home page",
+  "fullName" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data.Given I am on the home page",
+  "historyId" : "d3d3d902dcc63e413a3b5e3a64b3f7b4",
+  "time" : {
+    "start" : 1653890936895,
+    "stop" : 1653890947105,
+    "duration" : 10210
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3827a5fa7269fb7c.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

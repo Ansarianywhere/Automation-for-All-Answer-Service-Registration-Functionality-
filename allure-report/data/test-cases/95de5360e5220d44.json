@@ -1,0 +1,60 @@
+{
+  "uid" : "95de5360e5220d44",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "4c87c9ec822070bec510ad1b368f7d97",
+  "time" : {
+    "start" : 1653849093120,
+    "stop" : 1653849093124,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "95de5360e5220d44.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "c57f950b411e9265",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "bdc9207ce51553eb3a0680f7c4f074fe",
+  "time" : {
+    "start" : 1654774001837,
+    "stop" : 1654774016574,
+    "duration" : 14737
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "TypeError: Cannot read properties of undefined (reading 'waitForDisplayed')",
+  "statusTrace" : "TypeError: Cannot read properties of undefined (reading 'waitForDisplayed')\n                    at Helper.getValue_on_element (F:\\LearnAutomationPractice\\utilites\\/helper.js:32:19)\n                    at ChoosePlan_Singup.verify_All_RegistrationData_For_AC_CA (F:\\LearnAutomationPractice\\pageobjects\\/signup.page.js:52:38)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at World.<anonymous> (F:\\LearnAutomationPractice\\step-definitions\\Registration\\/AnswerConnectCA_Registration.js:21:3)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c57f950b411e9265.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

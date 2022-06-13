@@ -1,0 +1,86 @@
+{
+  "uid" : "ca263814e2053079",
+  "name" : "",
+  "fullName" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data.",
+  "historyId" : "436ae27a84cfcb89ac8d5c7526f8a9ec",
+  "time" : {
+    "start" : 1653468654670,
+    "stop" : 1653468654672,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-95.0.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9354b025a60b85cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653468633918,
+        "stop" : 1653468633928,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "816566dadf02ebb8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653468248229,
+        "stop" : 1653468248232,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "14ec572e3e54af97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653468185882,
+        "stop" : 1653468185886,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ca263814e2053079.json",
+  "parameterValues" : [ "firefox-95.0.2" ]
+}

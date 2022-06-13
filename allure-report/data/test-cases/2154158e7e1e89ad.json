@@ -1,0 +1,62 @@
+{
+  "uid" : "2154158e7e1e89ad",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "fullName" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data.When I Navigate to the Register page and set the value for All mandantory fields",
+  "historyId" : "14842a97e1006b4f8cd1d78aa048b84",
+  "time" : {
+    "start" : 1653849082461,
+    "stop" : 1653849093120,
+    "duration" : 10659
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Error: Can't call click on element with selector \"#register\" because element wasn't found",
+  "statusTrace" : "Error: Can't call click on element with selector \"#register\" because element wasn't found\n                    at implicitWait (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:34:19)\n                    at Element.elementErrorHandlerCallbackFn (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\middlewares.js:20:29)\n                    at Element.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Registration.registration_For_HelloSells (F:\\LearnAutomationPractice\\pageobjects\\/registration.page.js:101:9)\n                    at World.<anonymous> (F:\\LearnAutomationPractice\\step-definitions\\Registration\\/HelloSells_register.js:15:8)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I Navigate to the Register page and set the value for All mandantory fields"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2154158e7e1e89ad.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

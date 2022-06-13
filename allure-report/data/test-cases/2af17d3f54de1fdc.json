@@ -1,0 +1,60 @@
+{
+  "uid" : "2af17d3f54de1fdc",
+  "name" : "",
+  "fullName" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data.",
+  "historyId" : "c6652f6e0ec5f264ab44ac7ecedeed7c",
+  "time" : {
+    "start" : 1654772806322,
+    "stop" : 1654772806327,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2af17d3f54de1fdc.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

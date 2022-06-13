@@ -1,0 +1,78 @@
+{
+  "uid" : "c54e8c64f0e3b054",
+  "name" : "Given I am on the home page and I Navigate to the Register page",
+  "fullName" : "Registration functionlity for Answerforce US: Register in AnsewerForce with valid data.Given I am on the home page and I Navigate to the Register page",
+  "historyId" : "3dae6766ca86b55b188e2197c7a05d05",
+  "time" : {
+    "start" : 1654598588756,
+    "stop" : 1654598588773,
+    "duration" : 17
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page and I Navigate to the Register page"
+  }, {
+    "name" : "package",
+    "value" : "Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "19820060a9cb91f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654598197271,
+        "stop" : 1654598197285,
+        "duration" : 14
+      }
+    }, {
+      "uid" : "64cbc642b646bc30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654597881053,
+        "stop" : 1654597881076,
+        "duration" : 23
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c54e8c64f0e3b054.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

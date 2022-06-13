@@ -1,0 +1,62 @@
+{
+  "uid" : "a32ce4e456a6b41b",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "fullName" : "Register , Registration functionlity for Answerforce US: Register in AnsewerForce with valid data.When I Navigate to the Register page and set the value for All mandantory fields",
+  "historyId" : "2cff9283408aafbe292065089843c69a",
+  "time" : {
+    "start" : 1654585605893,
+    "stop" : 1654585610281,
+    "duration" : 4388
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Error: selector needs to be typeof `string` or `function`",
+  "statusTrace" : "Error: selector needs to be typeof `string` or `function`\n                    at Browser.findElement (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\utils\\index.js:254:11)\n                    at Browser.$ (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\commands\\browser\\$.js:91:43)\n                    at Browser.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:38)\n                    at F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:154:69\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I Navigate to the Register page and set the value for All mandantory fields"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a32ce4e456a6b41b.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

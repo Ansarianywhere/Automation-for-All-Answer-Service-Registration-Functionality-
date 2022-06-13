@@ -1,0 +1,60 @@
+{
+  "uid" : "afe830d8dbad3e9d",
+  "name" : "",
+  "fullName" : "Register , Registration functionlity for Answerforce CA: Register in AnsewerForce CA with valid data.",
+  "historyId" : "abf70818e2084ea142e76a22da3eda96",
+  "time" : {
+    "start" : 1653658302851,
+    "stop" : 1653658302857,
+    "duration" : 6
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce CA: Register in AnsewerForce CA with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce CA: Register in AnsewerForce CA with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce CA: Register in AnsewerForce CA with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afe830d8dbad3e9d.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

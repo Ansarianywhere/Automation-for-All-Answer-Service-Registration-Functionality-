@@ -1,0 +1,173 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element not interactable: element not interactable",
+      "children" : [ {
+        "name" : "Then click the see prices Button",
+        "uid" : "32678a36d74901c",
+        "parentUid" : "3bdcf9610d56042fbc02fc662361e656",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653128105918,
+          "stop" : 1653128114127,
+          "duration" : 8209
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 23,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-101.0.4951.54" ]
+      } ],
+      "uid" : "3bdcf9610d56042fbc02fc662361e656"
+    }, {
+      "name" : "Error: Can't call setValue on element with selector \"#name\" because element wasn't found",
+      "children" : [ {
+        "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+        "uid" : "625c50830f6ab2a7",
+        "parentUid" : "79c76ccbab18141eb338700c4406884c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653468635172,
+          "stop" : 1653468654668,
+          "duration" : 19496
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox-95.0.2" ]
+      } ],
+      "uid" : "79c76ccbab18141eb338700c4406884c"
+    }, {
+      "name" : "Error: selector needs to be typeof `string` or `function`",
+      "children" : [ {
+        "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+        "uid" : "49bfbbb7de3143a7",
+        "parentUid" : "b771dda7fc477dbd1dec8c40b7c18b7a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1654593956260,
+          "stop" : 1654593959814,
+          "duration" : 3554
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-102.0.5005.63" ]
+      } ],
+      "uid" : "b771dda7fc477dbd1dec8c40b7c18b7a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Error: Expect $(`#companyName`) to have text",
+      "children" : [ {
+        "name" : "Then I click the choose plan Button and verify the given details",
+        "uid" : "13c0dccfb296595",
+        "parentUid" : "5471d9f20bde88334f5da5215070186c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653470289126,
+          "stop" : 1653470322043,
+          "duration" : 32917
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 19,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-101.0.4951.67" ]
+      } ],
+      "uid" : "5471d9f20bde88334f5da5215070186c"
+    }, {
+      "name" : "AssertionError",
+      "children" : [ {
+        "name" : "Then I click the choose plan Button and verify the given details",
+        "uid" : "2188f420144f9893",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653853954737,
+          "stop" : 1653853975996,
+          "duration" : 21259
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-102.0.5005.62" ]
+      }, {
+        "name" : "Then I click the choose plan Button and verify the given details",
+        "uid" : "ebbb0e72d32a6061",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653854714661,
+          "stop" : 1653854728510,
+          "duration" : 13849
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-102.0.5005.62" ]
+      }, {
+        "name" : "Then I click the choose plan Button and verify the given details",
+        "uid" : "7ec9e81c3d8e88a8",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1654851925654,
+          "stop" : 1654851963489,
+          "duration" : 37835
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-102.0.5005.63" ]
+      } ],
+      "uid" : "a0017ad855102fea08b8682d27fec4ca"
+    }, {
+      "name" : "AssertionError: expected 7538812986 to equal null",
+      "children" : [ {
+        "name" : "Then I click the choose plan Button and verify the given details",
+        "uid" : "ad8a83371f88df31",
+        "parentUid" : "ef638d1709c4faa0c5dce7d61f740a89",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653893340166,
+          "stop" : 1653893359280,
+          "duration" : 19114
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 19,
+        "retriesStatusChange" : true,
+        "parameters" : [ "chrome-102.0.5005.62" ]
+      } ],
+      "uid" : "ef638d1709c4faa0c5dce7d61f740a89"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

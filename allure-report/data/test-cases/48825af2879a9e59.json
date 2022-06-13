@@ -1,0 +1,60 @@
+{
+  "uid" : "48825af2879a9e59",
+  "name" : "",
+  "fullName" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data.",
+  "historyId" : "ea4e47c5b275bfcb591d44636d22526c",
+  "time" : {
+    "start" : 1653849341760,
+    "stop" : 1653849341765,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48825af2879a9e59.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

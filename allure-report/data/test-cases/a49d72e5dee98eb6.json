@@ -1,0 +1,62 @@
+{
+  "uid" : "a49d72e5dee98eb6",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "62b9f90371608c9bdfe12be4ad04f44d",
+  "time" : {
+    "start" : 1654767586870,
+    "stop" : 1654767607374,
+    "duration" : 20504
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError",
+  "statusTrace" : "AssertionError\n                    + expected - actual\n                \n                    -Ansari\n                    +Ansari \n                \n                    at ChoosePlan_Singup.verify_All_RegistrationData_For_AnswerConnectUK (F:\\LearnAutomationPractice\\pageobjects\\/signup.page.js:32:12)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at World.<anonymous> (F:\\LearnAutomationPractice\\step-definitions\\Registration\\/AnswerConnectUK_Registration.js:20:3)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a49d72e5dee98eb6.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

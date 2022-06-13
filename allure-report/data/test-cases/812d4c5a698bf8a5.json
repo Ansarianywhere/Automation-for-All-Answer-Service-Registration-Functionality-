@@ -1,0 +1,102 @@
+{
+  "uid" : "812d4c5a698bf8a5",
+  "name" : "",
+  "fullName" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data.",
+  "historyId" : "5e9c1ec86f8368b49730bfbd88d734d9",
+  "time" : {
+    "start" : 1653486846045,
+    "stop" : 1653486846047,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5782c950225459a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653486845866,
+        "stop" : 1653486845875,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "91e7b8762e983c72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653485081577,
+        "stop" : 1653485081579,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "2153060ce533f28f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653485081468,
+        "stop" : 1653485081473,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "11d7744d22f0e02a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653484936982,
+        "stop" : 1653484936983,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7073156fce955d46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653484936665,
+        "stop" : 1653484936678,
+        "duration" : 13
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "812d4c5a698bf8a5.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

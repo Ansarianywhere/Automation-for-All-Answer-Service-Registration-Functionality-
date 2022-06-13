@@ -1,0 +1,166 @@
+{
+  "uid" : "18e40d344aca7181",
+  "name" : "Given I am on the home page",
+  "fullName" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data.Given I am on the home page",
+  "historyId" : "ffa31493ddc67ab1cce911444a72f828",
+  "time" : {
+    "start" : 1653851820281,
+    "stop" : 1653851826707,
+    "duration" : 6426
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 13,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e52acf927346d546",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653851388219,
+        "stop" : 1653851397328,
+        "duration" : 9109
+      }
+    }, {
+      "uid" : "e12d07a88e75bff0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653851225098,
+        "stop" : 1653851233804,
+        "duration" : 8706
+      }
+    }, {
+      "uid" : "3b530e2dd86092f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653849341766,
+        "stop" : 1653849347803,
+        "duration" : 6037
+      }
+    }, {
+      "uid" : "14d68ecdd7c23a9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653849073326,
+        "stop" : 1653849082461,
+        "duration" : 9135
+      }
+    }, {
+      "uid" : "d527ed4b09583f0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653562349838,
+        "stop" : 1653562349982,
+        "duration" : 144
+      }
+    }, {
+      "uid" : "f1aa3684e01e9882",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653561605400,
+        "stop" : 1653561605495,
+        "duration" : 95
+      }
+    }, {
+      "uid" : "e0793cb65d35ff16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653559710795,
+        "stop" : 1653559710874,
+        "duration" : 79
+      }
+    }, {
+      "uid" : "27c746bbe358d13f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653559503734,
+        "stop" : 1653559503796,
+        "duration" : 62
+      }
+    }, {
+      "uid" : "586eb70862697087",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653559430678,
+        "stop" : 1653559430738,
+        "duration" : 60
+      }
+    }, {
+      "uid" : "be576a906d9f3705",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653559276683,
+        "stop" : 1653559276705,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "e2dd393298891f94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653559218431,
+        "stop" : 1653559218449,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "ed371f93d2792b33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653558798264,
+        "stop" : 1653558798306,
+        "duration" : 42
+      }
+    }, {
+      "uid" : "d5f89fab6146de25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653558461219,
+        "stop" : 1653558461237,
+        "duration" : 18
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18e40d344aca7181.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

@@ -1,0 +1,881 @@
+[ {
+  "uid" : "818cf8cc95ae4caa",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653655088609,
+    "stop" : 1653655101761,
+    "duration" : 13152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83add8a81c73c2f5",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1654593959815,
+    "stop" : 1654593959816,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "13c0dccfb296595",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653470289126,
+    "stop" : 1653470322043,
+    "duration" : 32917
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "866d8f95cc67f2b6",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653486845876,
+    "stop" : 1653486845909,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "904ce34a5d35e248",
+  "name" : "Then click the see prices Button",
+  "time" : {
+    "start" : 1653290448491,
+    "stop" : 1653290461708,
+    "duration" : 13217
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a86258739d27a1d",
+  "name" : "",
+  "time" : {
+    "start" : 1654844284967,
+    "stop" : 1654844284971,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b2307b338925a0c",
+  "name" : "When I set the value for All mandantory fields",
+  "time" : {
+    "start" : 1654844284948,
+    "stop" : 1654844284960,
+    "duration" : 12
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "49bfbbb7de3143a7",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1654593956260,
+    "stop" : 1654593959814,
+    "duration" : 3554
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "db2442f9ca1f17b",
+  "name" : "",
+  "time" : {
+    "start" : 1653470322044,
+    "stop" : 1653470322045,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "182b3568681d5f4",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653470276151,
+    "stop" : 1653470282738,
+    "duration" : 6587
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef42ab4cb9d1b8ba",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653468633929,
+    "stop" : 1653468635172,
+    "duration" : 1243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18e40d344aca7181",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653851820281,
+    "stop" : 1653851826707,
+    "duration" : 6426
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "731bc6a15a0333a2",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653897332654,
+    "stop" : 1653897346157,
+    "duration" : 13503
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8e5fa23f494dee4",
+  "name" : "",
+  "time" : {
+    "start" : 1654851963489,
+    "stop" : 1654851963492,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31fd16aa76e1043f",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653890518176,
+    "stop" : 1653890519307,
+    "duration" : 1131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b2976bee9a41d39",
+  "name" : "",
+  "time" : {
+    "start" : 1654593959817,
+    "stop" : 1654593959827,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b948f34926db43e1",
+  "name" : "",
+  "time" : {
+    "start" : 1653655101763,
+    "stop" : 1653655101766,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6cccfa1ba83cb93e",
+  "name" : "",
+  "time" : {
+    "start" : 1653851847331,
+    "stop" : 1653851847332,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "625c50830f6ab2a7",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653468635172,
+    "stop" : 1653468654668,
+    "duration" : 19496
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "61d4baab50c8ccb6",
+  "name" : "",
+  "time" : {
+    "start" : 1653890667572,
+    "stop" : 1653890667574,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9051ab8eb006699e",
+  "name" : "",
+  "time" : {
+    "start" : 1654598632873,
+    "stop" : 1654598632875,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "893dbf1b2d2ab09c",
+  "name" : "When user Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653464587233,
+    "stop" : 1653464590211,
+    "duration" : 2978
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "305bc58050d64df6",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653851829343,
+    "stop" : 1653851847330,
+    "duration" : 17987
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55524d9ff5b7ce6c",
+  "name" : "When Navigate to the Register page",
+  "time" : {
+    "start" : 1653312438828,
+    "stop" : 1653312446069,
+    "duration" : 7241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ae50b3fcfc8488",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653890647579,
+    "stop" : 1653890651813,
+    "duration" : 4234
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ec9e81c3d8e88a8",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1654851925654,
+    "stop" : 1654851963489,
+    "duration" : 37835
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e244c4b7705541a2",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653851826707,
+    "stop" : 1653851829343,
+    "duration" : 2636
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "108c30efe805b835",
+  "name" : "Given I am on the home page and I Navigate to the Register page",
+  "time" : {
+    "start" : 1654844284748,
+    "stop" : 1654844284947,
+    "duration" : 199
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "455722beedd479a",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653853946593,
+    "stop" : 1653853946617,
+    "duration" : 24
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "812d4c5a698bf8a5",
+  "name" : "",
+  "time" : {
+    "start" : 1653486846045,
+    "stop" : 1653486846047,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d96fb1348384fe3a",
+  "name" : "",
+  "time" : {
+    "start" : 1653128114128,
+    "stop" : 1653128114132,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea6c5fde9d0265bd",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653468654669,
+    "stop" : 1653468654670,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ccbeabbb4f04168b",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653890356489,
+    "stop" : 1653890356504,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdcbadd3297e169d",
+  "name" : "When set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653312446069,
+    "stop" : 1653312448338,
+    "duration" : 2269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "433ce563a0ab8730",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653897346158,
+    "stop" : 1653897359346,
+    "duration" : 13188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85b8642c975035c9",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1654593956244,
+    "stop" : 1654593956260,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6e6d8a65a882ce7",
+  "name" : "Then set the value of All mandantory fields",
+  "time" : {
+    "start" : 1653128103036,
+    "stop" : 1653128105918,
+    "duration" : 2882
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9d6c7698c26082a",
+  "name" : "When Navigate to the Register page",
+  "time" : {
+    "start" : 1653128096237,
+    "stop" : 1653128103035,
+    "duration" : 6798
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1dd8e18be595263",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653890643302,
+    "stop" : 1653890647578,
+    "duration" : 4276
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b33b27bd1b6665a5",
+  "name" : "",
+  "time" : {
+    "start" : 1653853975998,
+    "stop" : 1653853976003,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9f045cfd9bdd5ab",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653840317631,
+    "stop" : 1653840339230,
+    "duration" : 21599
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a10412ae23702580",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653854713091,
+    "stop" : 1653854714661,
+    "duration" : 1570
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a6f2aa1f735b898",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653854707649,
+    "stop" : 1653854713090,
+    "duration" : 5441
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f46f57d78dc6fa9",
+  "name" : "",
+  "time" : {
+    "start" : 1653893359281,
+    "stop" : 1653893359284,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7b7c98243cc4bbb",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653845799769,
+    "stop" : 1653845815638,
+    "duration" : 15869
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "846db574add6e1a9",
+  "name" : "When I set the value for All mandantory fields",
+  "time" : {
+    "start" : 1654844284951,
+    "stop" : 1654844284961,
+    "duration" : 10
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f5d534db39d77c27",
+  "name" : "",
+  "time" : {
+    "start" : 1653897359807,
+    "stop" : 1653897359809,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1dda62fc47d0aa24",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1654598598648,
+    "stop" : 1654598632873,
+    "duration" : 34225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2188f420144f9893",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653853954737,
+    "stop" : 1653853975996,
+    "duration" : 21259
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c69c52441064d56",
+  "name" : "",
+  "time" : {
+    "start" : 1653890536478,
+    "stop" : 1653890536480,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "549fab42de5743e4",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653890519307,
+    "stop" : 1653890536477,
+    "duration" : 17170
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aef80ceaff5d7a5f",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653890651813,
+    "stop" : 1653890667572,
+    "duration" : 15759
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10d699f088beb6c0",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653890356504,
+    "stop" : 1653890363175,
+    "duration" : 6671
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cde85393367f66f3",
+  "name" : "When I set the value for All mandantory fields",
+  "time" : {
+    "start" : 1654598588773,
+    "stop" : 1654598598647,
+    "duration" : 9874
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18c78fe0a56697c1",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653655081060,
+    "stop" : 1653655088609,
+    "duration" : 7549
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e88cc3ef8ec9f03",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653890363176,
+    "stop" : 1653890376025,
+    "duration" : 12849
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "347944a08c818990",
+  "name" : "",
+  "time" : {
+    "start" : 1653840339231,
+    "stop" : 1653840339234,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "140a31e79dd8bcb2",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653853946617,
+    "stop" : 1653853954736,
+    "duration" : 8119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebbb0e72d32a6061",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653854714661,
+    "stop" : 1653854728510,
+    "duration" : 13849
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad8a83371f88df31",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653893340166,
+    "stop" : 1653893359280,
+    "duration" : 19114
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d2f19ac15427323",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653486846027,
+    "stop" : 1653486846045,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5c1e037a9259c56",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653470282739,
+    "stop" : 1653470289124,
+    "duration" : 6385
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dbaeede2cfe0869c",
+  "name" : "",
+  "time" : {
+    "start" : 1653845815638,
+    "stop" : 1653845815641,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2420a7955eb4c21",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1653897359347,
+    "stop" : 1653897359807,
+    "duration" : 460
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aced179b2d65fb11",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1654844284960,
+    "stop" : 1654844284967,
+    "duration" : 7
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d044729e1150cf60",
+  "name" : "",
+  "time" : {
+    "start" : 1654844284968,
+    "stop" : 1654844284970,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5efa8970775ea9fd",
+  "name" : "When I set the value for All mandantory fields",
+  "time" : {
+    "start" : 1654851915088,
+    "stop" : 1654851925653,
+    "duration" : 10565
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "437a8e232dc36d2d",
+  "name" : "When set the value of All mandantory fields",
+  "time" : {
+    "start" : 1653290446440,
+    "stop" : 1653290448491,
+    "duration" : 2051
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "613cce01ae81e1f0",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653840311718,
+    "stop" : 1653840314716,
+    "duration" : 2998
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a05cccbed15202a9",
+  "name" : "Given I am on the home page and I Navigate to the Register page",
+  "time" : {
+    "start" : 1654844284741,
+    "stop" : 1654844284951,
+    "duration" : 210
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b72ebc806ee2a375",
+  "name" : "",
+  "time" : {
+    "start" : 1653890376026,
+    "stop" : 1653890376029,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1ec0ac355673a65",
+  "name" : "",
+  "time" : {
+    "start" : 1653854728511,
+    "stop" : 1653854728512,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4e9e8f6cda06d22",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653893338417,
+    "stop" : 1653893340166,
+    "duration" : 1749
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2618f02c426b9ff",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653845796648,
+    "stop" : 1653845799769,
+    "duration" : 3121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1eb526508d96dda",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "time" : {
+    "start" : 1654844284962,
+    "stop" : 1654844284968,
+    "duration" : 6
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "505e2c2bacf02c5c",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653486845909,
+    "stop" : 1653486846027,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af503616bb219ce1",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "time" : {
+    "start" : 1653840314716,
+    "stop" : 1653840317631,
+    "duration" : 2915
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cbd1be6cb2c79ef",
+  "name" : "Given I am on the home page and I Navigate to the Register page",
+  "time" : {
+    "start" : 1654851898432,
+    "stop" : 1654851915088,
+    "duration" : 16656
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8569142f69f9026d",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653890508516,
+    "stop" : 1653890518175,
+    "duration" : 9659
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32678a36d74901c",
+  "name" : "Then click the see prices Button",
+  "time" : {
+    "start" : 1653128105918,
+    "stop" : 1653128114127,
+    "duration" : 8209
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d03a47be1354b599",
+  "name" : "Then click the see prices Button and verify the given details",
+  "time" : {
+    "start" : 1653464590213,
+    "stop" : 1653464590218,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca263814e2053079",
+  "name" : "",
+  "time" : {
+    "start" : 1653468654670,
+    "stop" : 1653468654672,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99146f8d042852c3",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653128096195,
+    "stop" : 1653128096236,
+    "duration" : 41
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c54e8c64f0e3b054",
+  "name" : "Given I am on the home page and I Navigate to the Register page",
+  "time" : {
+    "start" : 1654598588756,
+    "stop" : 1654598588773,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb8c11fe07fb062f",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653845790494,
+    "stop" : 1653845796647,
+    "duration" : 6153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66628dab69b6afbb",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653655081041,
+    "stop" : 1653655081060,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ae9d713be435e83",
+  "name" : "Given I am on the home page",
+  "time" : {
+    "start" : 1653893331272,
+    "stop" : 1653893338417,
+    "duration" : 7145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a1a2ffe947f172c",
+  "name" : "Then set the value of All mandantory fields",
+  "time" : {
+    "start" : 1653285854163,
+    "stop" : 1653285855384,
+    "duration" : 1221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

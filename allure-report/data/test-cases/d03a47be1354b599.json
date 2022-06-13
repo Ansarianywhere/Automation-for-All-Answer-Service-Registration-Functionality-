@@ -1,0 +1,173 @@
+{
+  "uid" : "d03a47be1354b599",
+  "name" : "Then click the see prices Button and verify the given details",
+  "fullName" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data.Then click the see prices Button and verify the given details",
+  "historyId" : "e7d867969e205cd53c2e9b70977408b4",
+  "time" : {
+    "start" : 1653464590213,
+    "stop" : 1653464590218,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 13,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then click the see prices Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6515dc9af62bfd81",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _registration.default.clcik_ShowPlansBtn is not a function",
+      "time" : {
+        "start" : 1653464509408,
+        "stop" : 1653464509527,
+        "duration" : 119
+      }
+    }, {
+      "uid" : "ff0c08cd2ed81526",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _registration.default.clcik_ShowPlansBtn is not a function",
+      "time" : {
+        "start" : 1653464424470,
+        "stop" : 1653464425515,
+        "duration" : 1045
+      }
+    }, {
+      "uid" : "16ec3c9f24b0012c",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _registration.default.clcik_ShowPlansBtn is not a function",
+      "time" : {
+        "start" : 1653463445885,
+        "stop" : 1653463449844,
+        "duration" : 3959
+      }
+    }, {
+      "uid" : "222ec65a944b9553",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _registration.default.clcik_ShowPlansBtn is not a function",
+      "time" : {
+        "start" : 1653399509534,
+        "stop" : 1653399511453,
+        "duration" : 1919
+      }
+    }, {
+      "uid" : "d1ea4cd79f9bafff",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _registration.default.clcik_ShowPlansBtn is not a function",
+      "time" : {
+        "start" : 1653314285692,
+        "stop" : 1653314287547,
+        "duration" : 1855
+      }
+    }, {
+      "uid" : "cb98e210663423f1",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653313709043,
+        "stop" : 1653313709045,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "587599cf44b45515",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653313571839,
+        "stop" : 1653313571840,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d77736fe0978ed4f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653313417862,
+        "stop" : 1653313417863,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e0f6f6210f6f836",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653313014203,
+        "stop" : 1653313014204,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7c2e683e38785488",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653312448339,
+        "stop" : 1653312481896,
+        "duration" : 33557
+      }
+    }, {
+      "uid" : "8bff53c7baa73a9f",
+      "status" : "broken",
+      "statusDetails" : "ReferenceError: Verrification is not defined",
+      "time" : {
+        "start" : 1653308935754,
+        "stop" : 1653308947754,
+        "duration" : 12000
+      }
+    }, {
+      "uid" : "525791b862c43c90",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"(//*[@class='btn btn-fill full-btn'])[1]\" because element wasn't found",
+      "time" : {
+        "start" : 1653304080140,
+        "stop" : 1653304091517,
+        "duration" : 11377
+      }
+    }, {
+      "uid" : "9eec0997ecaa34e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653290704364,
+        "stop" : 1653290716712,
+        "duration" : 12348
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d03a47be1354b599.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

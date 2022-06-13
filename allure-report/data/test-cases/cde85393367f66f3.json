@@ -1,0 +1,80 @@
+{
+  "uid" : "cde85393367f66f3",
+  "name" : "When I set the value for All mandantory fields",
+  "fullName" : "Registration functionlity for Answerforce US: Register in AnsewerForce with valid data.When I set the value for All mandantory fields",
+  "historyId" : "fe41ddacfa7b09b6e68d963b2f42321a",
+  "time" : {
+    "start" : 1654598588773,
+    "stop" : 1654598598647,
+    "duration" : 9874
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I set the value for All mandantory fields"
+  }, {
+    "name" : "package",
+    "value" : "Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c1d6424b4174397b",
+      "status" : "broken",
+      "statusDetails" : "Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1654598197285,
+        "stop" : 1654598201020,
+        "duration" : 3735
+      }
+    }, {
+      "uid" : "3c02a742bc9a39e8",
+      "status" : "broken",
+      "statusDetails" : "Step \"I set the value for All mandantory fields\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1654597881076,
+        "stop" : 1654597881080,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cde85393367f66f3.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

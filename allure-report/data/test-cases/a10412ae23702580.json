@@ -1,0 +1,86 @@
+{
+  "uid" : "a10412ae23702580",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "fullName" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data.When I Navigate to the Register page and set the value for All mandantory fields",
+  "historyId" : "b70486b6aab5af47db1daa982c7c434b",
+  "time" : {
+    "start" : 1653854713091,
+    "stop" : 1653854714661,
+    "duration" : 1570
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I Navigate to the Register page and set the value for All mandantory fields"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7d4b69ab73d699af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653854631768,
+        "stop" : 1653854632738,
+        "duration" : 970
+      }
+    }, {
+      "uid" : "4f928b344253aaad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653854567515,
+        "stop" : 1653854569359,
+        "duration" : 1844
+      }
+    }, {
+      "uid" : "5a276d4351b8beee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653854445790,
+        "stop" : 1653854446899,
+        "duration" : 1109
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a10412ae23702580.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

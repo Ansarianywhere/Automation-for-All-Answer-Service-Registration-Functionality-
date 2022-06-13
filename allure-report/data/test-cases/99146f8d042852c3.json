@@ -1,0 +1,277 @@
+{
+  "uid" : "99146f8d042852c3",
+  "name" : "Given I am on the home page",
+  "fullName" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data.Given I am on the home page",
+  "historyId" : "cda1b3ab0b3fade75ae0e2875639bece",
+  "time" : {
+    "start" : 1653128096195,
+    "stop" : 1653128096236,
+    "duration" : 41
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 23,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1653128096202,
+        "stop" : 0,
+        "duration" : -1653128096202
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "45531e88736851b0",
+        "name" : "Request",
+        "source" : "45531e88736851b0.json",
+        "type" : "application/json",
+        "size" : 61
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9abceda9cfa46f96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653124848823,
+        "stop" : 1653124848852,
+        "duration" : 29
+      }
+    }, {
+      "uid" : "9cfbe87fe25a7f5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653121342677,
+        "stop" : 1653121342704,
+        "duration" : 27
+      }
+    }, {
+      "uid" : "a124efb698e47305",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653119659500,
+        "stop" : 1653119659641,
+        "duration" : 141
+      }
+    }, {
+      "uid" : "36e3772fc9317e34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653119547403,
+        "stop" : 1653119547546,
+        "duration" : 143
+      }
+    }, {
+      "uid" : "a20e07c381163db5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653119210484,
+        "stop" : 1653119210513,
+        "duration" : 29
+      }
+    }, {
+      "uid" : "389bf71a73cfdf6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653119071141,
+        "stop" : 1653119071226,
+        "duration" : 85
+      }
+    }, {
+      "uid" : "7321966ba59b492b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653118229637,
+        "stop" : 1653118229664,
+        "duration" : 27
+      }
+    }, {
+      "uid" : "4717cbbac3a0aa00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653118033303,
+        "stop" : 1653118033332,
+        "duration" : 29
+      }
+    }, {
+      "uid" : "d512b9bc25c3904e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653117648089,
+        "stop" : 1653117648180,
+        "duration" : 91
+      }
+    }, {
+      "uid" : "4b15a81bcb52873d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653105799258,
+        "stop" : 1653105799288,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "c50f245ebd5645b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653105732560,
+        "stop" : 1653105732604,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "19579b6236ed7400",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653105569115,
+        "stop" : 1653105569171,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "c567e36766f1d6ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653105401961,
+        "stop" : 1653105402003,
+        "duration" : 42
+      }
+    }, {
+      "uid" : "23999f2e7ee91838",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653105195590,
+        "stop" : 1653105195686,
+        "duration" : 96
+      }
+    }, {
+      "uid" : "74b78a3fd4ebf857",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653105010292,
+        "stop" : 1653105010429,
+        "duration" : 137
+      }
+    }, {
+      "uid" : "a6811dc2f945ab82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653104862166,
+        "stop" : 1653104862299,
+        "duration" : 133
+      }
+    }, {
+      "uid" : "3e938f9d816f2a91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653104362677,
+        "stop" : 1653104362831,
+        "duration" : 154
+      }
+    }, {
+      "uid" : "e19d5df544d209d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653052418151,
+        "stop" : 1653052418246,
+        "duration" : 95
+      }
+    }, {
+      "uid" : "fe34aad0773a1724",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653050865260,
+        "stop" : 1653050865356,
+        "duration" : 96
+      }
+    }, {
+      "uid" : "f2ff2cd3d4f14839",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653047840221,
+        "stop" : 1653047840299,
+        "duration" : 78
+      }
+    }, {
+      "uid" : "205e1dd4adedc535",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653046647399,
+        "stop" : 1653046647420,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "d05edbda96f41669",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653045612059,
+        "stop" : 1653045612165,
+        "duration" : 106
+      }
+    }, {
+      "uid" : "9758753bed7d7472",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653044950769,
+        "stop" : 1653044950843,
+        "duration" : 74
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99146f8d042852c3.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

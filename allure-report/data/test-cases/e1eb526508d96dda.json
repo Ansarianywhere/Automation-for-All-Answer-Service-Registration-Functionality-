@@ -1,0 +1,301 @@
+{
+  "uid" : "e1eb526508d96dda",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "62b9f90371608c9bdfe12be4ad04f44d",
+  "time" : {
+    "start" : 1654844284962,
+    "stop" : 1654844284968,
+    "duration" : 6
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 27,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7d5ff0e38bbe2927",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1654773527499,
+        "stop" : 1654773565818,
+        "duration" : 38319
+      }
+    }, {
+      "uid" : "3e0aca387228303d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1654773002117,
+        "stop" : 1654773034859,
+        "duration" : 32742
+      }
+    }, {
+      "uid" : "ab9da958113b9a01",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1654772814290,
+        "stop" : 1654772847680,
+        "duration" : 33390
+      }
+    }, {
+      "uid" : "c08c1dab72c3e890",
+      "status" : "broken",
+      "statusDetails" : "Error: function timed out, ensure the promise resolves within 60000 milliseconds",
+      "time" : {
+        "start" : 1654770615730,
+        "stop" : 1654770675901,
+        "duration" : 60171
+      }
+    }, {
+      "uid" : "2be255a52797372b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1654768254001,
+        "stop" : 1654768285929,
+        "duration" : 31928
+      }
+    }, {
+      "uid" : "a49d72e5dee98eb6",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1654767586870,
+        "stop" : 1654767607374,
+        "duration" : 20504
+      }
+    }, {
+      "uid" : "bfaf0238385de2c4",
+      "status" : "broken",
+      "statusDetails" : "Error: element (\"#contactName\") still not displayed after 5000ms",
+      "time" : {
+        "start" : 1654767507436,
+        "stop" : 1654767523676,
+        "duration" : 16240
+      }
+    }, {
+      "uid" : "9b7c279d6953ba24",
+      "status" : "broken",
+      "statusDetails" : "Error: element (\"(//a[text()='Sign up'])[1]\") still not displayed after 3000ms",
+      "time" : {
+        "start" : 1654767433418,
+        "stop" : 1654767436615,
+        "duration" : 3197
+      }
+    }, {
+      "uid" : "a5788e05c8c89a14",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1654767232035,
+        "stop" : 1654767251923,
+        "duration" : 19888
+      }
+    }, {
+      "uid" : "699c70c05a498c46",
+      "status" : "broken",
+      "statusDetails" : "Error: element (\"(//a[text()='Sign up'])[1]\") still not displayed after 3000ms",
+      "time" : {
+        "start" : 1654767151326,
+        "stop" : 1654767154525,
+        "duration" : 3199
+      }
+    }, {
+      "uid" : "ec66cab04596dff9",
+      "status" : "broken",
+      "statusDetails" : "Error: element (\"(//a[text()='Sign up'])[1]\") still not displayed after 3000ms",
+      "time" : {
+        "start" : 1654767015006,
+        "stop" : 1654767018259,
+        "duration" : 3253
+      }
+    }, {
+      "uid" : "19fd0500f10c87bf",
+      "status" : "broken",
+      "statusDetails" : "Error: element (\"#contactName\") still not displayed after 3000ms",
+      "time" : {
+        "start" : 1654766878786,
+        "stop" : 1654766881935,
+        "duration" : 3149
+      }
+    }, {
+      "uid" : "d299f8158a86f99d",
+      "status" : "broken",
+      "statusDetails" : "Error: element (\"#contactName\") still not displayed after 3000ms",
+      "time" : {
+        "start" : 1654766788682,
+        "stop" : 1654766791853,
+        "duration" : 3171
+      }
+    }, {
+      "uid" : "cc4f306c51952c3f",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call getValue on element with selector \"#contactName\" because element wasn't found",
+      "time" : {
+        "start" : 1654766196979,
+        "stop" : 1654766209336,
+        "duration" : 12357
+      }
+    }, {
+      "uid" : "52d8185c3b8917f9",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call getValue on element with selector \"#contactName\" because element wasn't found",
+      "time" : {
+        "start" : 1654762377809,
+        "stop" : 1654762388114,
+        "duration" : 10305
+      }
+    }, {
+      "uid" : "dfd12c245e6faf53",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call getValue on element with selector \"#contactName\" because element wasn't found",
+      "time" : {
+        "start" : 1654754074163,
+        "stop" : 1654754084552,
+        "duration" : 10389
+      }
+    }, {
+      "uid" : "2537a5289657bbbf",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call getValue on element with selector \"#contactName\" because element wasn't found",
+      "time" : {
+        "start" : 1654696034836,
+        "stop" : 1654696045133,
+        "duration" : 10297
+      }
+    }, {
+      "uid" : "b3567d8e40e828de",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call getValue on element with selector \"#contactName\" because element wasn't found",
+      "time" : {
+        "start" : 1654695502423,
+        "stop" : 1654695512553,
+        "duration" : 10130
+      }
+    }, {
+      "uid" : "44071dcdc167cd7e",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call getValue on element with selector \"#contactName\" because element wasn't found",
+      "time" : {
+        "start" : 1654695017137,
+        "stop" : 1654695027822,
+        "duration" : 10685
+      }
+    }, {
+      "uid" : "333a555dad10c23",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1654684103617,
+        "stop" : 1654684129652,
+        "duration" : 26035
+      }
+    }, {
+      "uid" : "ca947491b076b051",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"(//a[text()='Choose'])[2]\" because element wasn't found",
+      "time" : {
+        "start" : 1654683943514,
+        "stop" : 1654683953802,
+        "duration" : 10288
+      }
+    }, {
+      "uid" : "461e7ed3cabf15d5",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'click')",
+      "time" : {
+        "start" : 1654682086621,
+        "stop" : 1654682086688,
+        "duration" : 67
+      }
+    }, {
+      "uid" : "1ebea09513b85155",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654681959686,
+        "stop" : 1654681959688,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "37464457cce93acc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654680462896,
+        "stop" : 1654680462897,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "17dc21fea5faff3c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654680353757,
+        "stop" : 1654680353759,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "d503d18fab323de8",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'click')",
+      "time" : {
+        "start" : 1654671534380,
+        "stop" : 1654671534442,
+        "duration" : 62
+      }
+    }, {
+      "uid" : "809a3ff631ddd3c2",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654670012495,
+        "stop" : 1654670012496,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1eb526508d96dda.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

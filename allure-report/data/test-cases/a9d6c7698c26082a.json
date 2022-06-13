@@ -1,0 +1,309 @@
+{
+  "uid" : "a9d6c7698c26082a",
+  "name" : "When Navigate to the Register page",
+  "fullName" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data.When Navigate to the Register page",
+  "historyId" : "cc401b123e9f5126f847146dee11bcea",
+  "time" : {
+    "start" : 1653128096237,
+    "stop" : 1653128103035,
+    "duration" : 6798
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 23,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653128096244,
+        "stop" : 1653128099602,
+        "duration" : 3358
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d9976fef0f11a7d",
+        "name" : "Request",
+        "source" : "d9976fef0f11a7d.json",
+        "type" : "application/json",
+        "size" : 77
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/0caf33ab-d3ce-4bfd-bcf7-5524bc85af90/click",
+      "time" : {
+        "start" : 1653128099669,
+        "stop" : 1653128103027,
+        "duration" : 3358
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "a0646a45e8adc970",
+      "name" : "Response",
+      "source" : "a0646a45e8adc970.json",
+      "type" : "application/json",
+      "size" : 83
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When Navigate to the Register page"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "20a5ad5afbbe4b14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653124848853,
+        "stop" : 1653124854934,
+        "duration" : 6081
+      }
+    }, {
+      "uid" : "bc76cef404b1a5b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653121342704,
+        "stop" : 1653121349465,
+        "duration" : 6761
+      }
+    }, {
+      "uid" : "92406451f4100714",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653119659641,
+        "stop" : 1653119665195,
+        "duration" : 5554
+      }
+    }, {
+      "uid" : "513bdf2d809e43b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653119547546,
+        "stop" : 1653119553934,
+        "duration" : 6388
+      }
+    }, {
+      "uid" : "8619af738ffc7dc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653119210513,
+        "stop" : 1653119216143,
+        "duration" : 5630
+      }
+    }, {
+      "uid" : "6a495b241c17eddc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653119071227,
+        "stop" : 1653119076329,
+        "duration" : 5102
+      }
+    }, {
+      "uid" : "fe748c016355f794",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653118229664,
+        "stop" : 1653118234451,
+        "duration" : 4787
+      }
+    }, {
+      "uid" : "119072e39abe01b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653118033333,
+        "stop" : 1653118038915,
+        "duration" : 5582
+      }
+    }, {
+      "uid" : "8ce640b021a3b2da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653117648181,
+        "stop" : 1653117654287,
+        "duration" : 6106
+      }
+    }, {
+      "uid" : "1f7e294bca997e52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653105799288,
+        "stop" : 1653105805606,
+        "duration" : 6318
+      }
+    }, {
+      "uid" : "11ce0d58df2a34f",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _home.default.NavigateToRegisterPage is not a function",
+      "time" : {
+        "start" : 1653105732604,
+        "stop" : 1653105732718,
+        "duration" : 114
+      }
+    }, {
+      "uid" : "b15dd4ceaef4f2a5",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _home.default.NavigateToRegisterPage is not a function",
+      "time" : {
+        "start" : 1653105569171,
+        "stop" : 1653105569265,
+        "duration" : 94
+      }
+    }, {
+      "uid" : "b43cd93fff3b015e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653105402003,
+        "stop" : 1653105410135,
+        "duration" : 8132
+      }
+    }, {
+      "uid" : "c76652b4794a22a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653105195687,
+        "stop" : 1653105214902,
+        "duration" : 19215
+      }
+    }, {
+      "uid" : "6632e7ae6501fc30",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \".btn btn-fill btn-lg mr-8\" because element wasn't found",
+      "time" : {
+        "start" : 1653105010430,
+        "stop" : 1653105026054,
+        "duration" : 15624
+      }
+    }, {
+      "uid" : "909841a98d444bd",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \".btn btn-fill btn-lg mr-8\" because element wasn't found",
+      "time" : {
+        "start" : 1653104862299,
+        "stop" : 1653104877265,
+        "duration" : 14966
+      }
+    }, {
+      "uid" : "4fe83443d0815a8",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _home.default.NavigateToRegisterPage is not a function",
+      "time" : {
+        "start" : 1653104362832,
+        "stop" : 1653104363068,
+        "duration" : 236
+      }
+    }, {
+      "uid" : "ddf9c64e98fba48",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _home.default.NavigateToRegisterPage is not a function",
+      "time" : {
+        "start" : 1653052418247,
+        "stop" : 1653052418812,
+        "duration" : 565
+      }
+    }, {
+      "uid" : "e3fe9ac5677d919f",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _home.default.NavigateToRegisterPage is not a function",
+      "time" : {
+        "start" : 1653050865356,
+        "stop" : 1653050865616,
+        "duration" : 260
+      }
+    }, {
+      "uid" : "137c77e19757d927",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _home.default.NavigateToRegisterPage is not a function",
+      "time" : {
+        "start" : 1653047840299,
+        "stop" : 1653047840501,
+        "duration" : 202
+      }
+    }, {
+      "uid" : "87aa3f71d62a497b",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _home.default.NavigateToRegisterPage is not a function",
+      "time" : {
+        "start" : 1653046647420,
+        "stop" : 1653046647530,
+        "duration" : 110
+      }
+    }, {
+      "uid" : "19f05b708483cf9a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _home.default.NavigateToRegisterPage is not a function",
+      "time" : {
+        "start" : 1653045612166,
+        "stop" : 1653045612485,
+        "duration" : 319
+      }
+    }, {
+      "uid" : "3f3257d8ecea47d4",
+      "status" : "broken",
+      "statusDetails" : "TypeError: _home.default.NavigateToRegisterPage is not a function",
+      "time" : {
+        "start" : 1653044950844,
+        "stop" : 1653044951031,
+        "duration" : 187
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9d6c7698c26082a.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

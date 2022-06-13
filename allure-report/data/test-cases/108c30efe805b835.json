@@ -1,0 +1,62 @@
+{
+  "uid" : "108c30efe805b835",
+  "name" : "Given I am on the home page and I Navigate to the Register page",
+  "fullName" : "Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data.Given I am on the home page and I Navigate to the Register page",
+  "historyId" : "4fae134f9afda8c456c8bc14c042946c",
+  "time" : {
+    "start" : 1654844284748,
+    "stop" : 1654844284947,
+    "duration" : 199
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page and I Navigate to the Register page"
+  }, {
+    "name" : "package",
+    "value" : "Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "108c30efe805b835.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

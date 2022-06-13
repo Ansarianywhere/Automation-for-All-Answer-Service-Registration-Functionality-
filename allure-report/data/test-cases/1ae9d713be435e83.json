@@ -1,0 +1,218 @@
+{
+  "uid" : "1ae9d713be435e83",
+  "name" : "Given I am on the home page",
+  "fullName" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data.Given I am on the home page",
+  "historyId" : "d3d3d902dcc63e413a3b5e3a64b3f7b4",
+  "time" : {
+    "start" : 1653893331272,
+    "stop" : 1653893338417,
+    "duration" : 7145
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 19,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3dfeecd9512fcb96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653893113426,
+        "stop" : 1653893119529,
+        "duration" : 6103
+      }
+    }, {
+      "uid" : "9fb4b233a30ffe06",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653892391181,
+        "stop" : 1653892395713,
+        "duration" : 4532
+      }
+    }, {
+      "uid" : "8a3b237b85e5462",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653892135927,
+        "stop" : 1653892141622,
+        "duration" : 5695
+      }
+    }, {
+      "uid" : "52cffc58b907f577",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653892011043,
+        "stop" : 1653892017903,
+        "duration" : 6860
+      }
+    }, {
+      "uid" : "ae4d900711ef8667",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653891674968,
+        "stop" : 1653891682467,
+        "duration" : 7499
+      }
+    }, {
+      "uid" : "2654a2b5f30477e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653891480372,
+        "stop" : 1653891485891,
+        "duration" : 5519
+      }
+    }, {
+      "uid" : "368c3429bc531732",
+      "status" : "broken",
+      "statusDetails" : "element not interactable: element not interactable",
+      "time" : {
+        "start" : 1653891261250,
+        "stop" : 1653891264441,
+        "duration" : 3191
+      }
+    }, {
+      "uid" : "b9ec1dafd2963eaf",
+      "status" : "broken",
+      "statusDetails" : "element not interactable: element not interactable",
+      "time" : {
+        "start" : 1653891126181,
+        "stop" : 1653891130112,
+        "duration" : 3931
+      }
+    }, {
+      "uid" : "3827a5fa7269fb7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653890936895,
+        "stop" : 1653890947105,
+        "duration" : 10210
+      }
+    }, {
+      "uid" : "22832a55d32cd69e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653848399467,
+        "stop" : 1653848403931,
+        "duration" : 4464
+      }
+    }, {
+      "uid" : "b2fcb67f0e0a3a24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653848130047,
+        "stop" : 1653848134326,
+        "duration" : 4279
+      }
+    }, {
+      "uid" : "125863147439ad79",
+      "status" : "broken",
+      "statusDetails" : "element not interactable: element not interactable",
+      "time" : {
+        "start" : 1653847891554,
+        "stop" : 1653847894950,
+        "duration" : 3396
+      }
+    }, {
+      "uid" : "29d1239b67e3ce6e",
+      "status" : "broken",
+      "statusDetails" : "element not interactable: element not interactable",
+      "time" : {
+        "start" : 1653847737929,
+        "stop" : 1653847741964,
+        "duration" : 4035
+      }
+    }, {
+      "uid" : "9d76b4003d9b7c37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653847491697,
+        "stop" : 1653847491727,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "894f81f61165853a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653610997,
+        "stop" : 1653653611026,
+        "duration" : 29
+      }
+    }, {
+      "uid" : "44b442f5eda5d051",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653480997,
+        "stop" : 1653653481025,
+        "duration" : 28
+      }
+    }, {
+      "uid" : "61a6d15b62ea2bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653293744,
+        "stop" : 1653653293759,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "7dbb409632e29490",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653165748,
+        "stop" : 1653653165783,
+        "duration" : 35
+      }
+    }, {
+      "uid" : "2fb21ac2a18d9ad2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653078963,
+        "stop" : 1653653078997,
+        "duration" : 34
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ae9d713be435e83.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

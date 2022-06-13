@@ -1,0 +1,102 @@
+{
+  "uid" : "1cbd1be6cb2c79ef",
+  "name" : "Given I am on the home page and I Navigate to the Register page",
+  "fullName" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data.Given I am on the home page and I Navigate to the Register page",
+  "historyId" : "116e209eeb147ec4cd705a6a2b6f4c30",
+  "time" : {
+    "start" : 1654851898432,
+    "stop" : 1654851915088,
+    "duration" : 16656
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page and I Navigate to the Register page"
+  }, {
+    "name" : "package",
+    "value" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f9f223fefe0ca7cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654851226244,
+        "stop" : 1654851240579,
+        "duration" : 14335
+      }
+    }, {
+      "uid" : "5e3b2cd28201f8d5",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654844947687,
+        "stop" : 1654844947743,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "2a7e14400b12de8d",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654844591452,
+        "stop" : 1654844591506,
+        "duration" : 54
+      }
+    }, {
+      "uid" : "665d3f3e0dcadd85",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654844284740,
+        "stop" : 1654844284914,
+        "duration" : 174
+      }
+    }, {
+      "uid" : "dcda051023945c26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654773975496,
+        "stop" : 1654773997690,
+        "duration" : 22194
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cbd1be6cb2c79ef.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

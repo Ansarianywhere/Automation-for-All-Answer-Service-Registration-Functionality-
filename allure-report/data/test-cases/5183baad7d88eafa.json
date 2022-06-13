@@ -1,0 +1,62 @@
+{
+  "uid" : "5183baad7d88eafa",
+  "name" : "When I set the value for All mandantory fields",
+  "fullName" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data.When I set the value for All mandantory fields",
+  "historyId" : "101984895136362a7f6af8edcb24cf70",
+  "time" : {
+    "start" : 1654680353665,
+    "stop" : 1654680353756,
+    "duration" : 91
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Error: selector needs to be typeof `string` or `function`",
+  "statusTrace" : "Error: selector needs to be typeof `string` or `function`\n                    at Browser.findElement (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\utils\\index.js:254:11)\n                    at Browser.$ (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\commands\\browser\\$.js:91:43)\n                    at Browser.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:38)\n                    at F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:154:69\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I set the value for All mandantory fields"
+  }, {
+    "name" : "package",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5183baad7d88eafa.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

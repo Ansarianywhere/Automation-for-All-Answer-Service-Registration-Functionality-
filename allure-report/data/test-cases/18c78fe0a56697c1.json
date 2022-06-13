@@ -1,0 +1,372 @@
+{
+  "uid" : "18c78fe0a56697c1",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "fullName" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data.When I Navigate to the Register page and set the value for All mandantory fields",
+  "historyId" : "3b7e32c073aa9cc9db9b1590e6b7cbac",
+  "time" : {
+    "start" : 1653655081060,
+    "stop" : 1653655088609,
+    "duration" : 7549
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 38,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I Navigate to the Register page and set the value for All mandantory fields"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "af8bc49aa2ca41d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653654324671,
+        "stop" : 1653654335732,
+        "duration" : 11061
+      }
+    }, {
+      "uid" : "db9b936c3147f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653652096501,
+        "stop" : 1653652105931,
+        "duration" : 9430
+      }
+    }, {
+      "uid" : "c5912797a5bc40f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653650850396,
+        "stop" : 1653650860436,
+        "duration" : 10040
+      }
+    }, {
+      "uid" : "da41ddcae7150f85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653650041954,
+        "stop" : 1653650060261,
+        "duration" : 18307
+      }
+    }, {
+      "uid" : "8988d0db11c251c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653647571463,
+        "stop" : 1653647579705,
+        "duration" : 8242
+      }
+    }, {
+      "uid" : "2e296df05bb6794",
+      "status" : "broken",
+      "statusDetails" : "Error: element (\"#name\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1653647482345,
+        "stop" : 1653647492730,
+        "duration" : 10385
+      }
+    }, {
+      "uid" : "ae65dfda6612a7cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653646776779,
+        "stop" : 1653646798401,
+        "duration" : 21622
+      }
+    }, {
+      "uid" : "2b14257148155ae5",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call setValue on element with selector \"#name\" because element wasn't found",
+      "time" : {
+        "start" : 1653646545679,
+        "stop" : 1653646558207,
+        "duration" : 12528
+      }
+    }, {
+      "uid" : "71d1ef5d26c04ad3",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call setValue on element with selector \"#name\" because element wasn't found",
+      "time" : {
+        "start" : 1653646328797,
+        "stop" : 1653646339600,
+        "duration" : 10803
+      }
+    }, {
+      "uid" : "edb1886cdbd3d02c",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call setValue on element with selector \"#name\" because element wasn't found",
+      "time" : {
+        "start" : 1653645855709,
+        "stop" : 1653645867575,
+        "duration" : 11866
+      }
+    }, {
+      "uid" : "1e46e3f9048e252c",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call setValue on element with selector \"#name\" because element wasn't found",
+      "time" : {
+        "start" : 1653645099374,
+        "stop" : 1653645126298,
+        "duration" : 26924
+      }
+    }, {
+      "uid" : "eb79f70c75af5247",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653644159670,
+        "stop" : 1653644169809,
+        "duration" : 10139
+      }
+    }, {
+      "uid" : "b1fd932ef7ac0339",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653640688575,
+        "stop" : 1653640700608,
+        "duration" : 12033
+      }
+    }, {
+      "uid" : "7e965e88d00f0400",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653640286892,
+        "stop" : 1653640297331,
+        "duration" : 10439
+      }
+    }, {
+      "uid" : "96c8b2f6fbeed02d",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call setValue on element with selector \"#name\" because element wasn't found",
+      "time" : {
+        "start" : 1653640209124,
+        "stop" : 1653640219446,
+        "duration" : 10322
+      }
+    }, {
+      "uid" : "417743243974e388",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653639949347,
+        "stop" : 1653639958315,
+        "duration" : 8968
+      }
+    }, {
+      "uid" : "19bc185585f7743",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653637783224,
+        "stop" : 1653637792407,
+        "duration" : 9183
+      }
+    }, {
+      "uid" : "8433f29936c27990",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653636183128,
+        "stop" : 1653636191056,
+        "duration" : 7928
+      }
+    }, {
+      "uid" : "de78a4ee9c65b2bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653636085830,
+        "stop" : 1653636094220,
+        "duration" : 8390
+      }
+    }, {
+      "uid" : "32edc7028166a01a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653633466572,
+        "stop" : 1653633475081,
+        "duration" : 8509
+      }
+    }, {
+      "uid" : "4800e2335d9cb3ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653633083959,
+        "stop" : 1653633096099,
+        "duration" : 12140
+      }
+    }, {
+      "uid" : "ebb68eabe4bdf790",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653632782922,
+        "stop" : 1653632793579,
+        "duration" : 10657
+      }
+    }, {
+      "uid" : "2d0e2b0c664d2b23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653632456616,
+        "stop" : 1653632467018,
+        "duration" : 10402
+      }
+    }, {
+      "uid" : "e7ffe27d0ed19763",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653563251946,
+        "stop" : 1653563262384,
+        "duration" : 10438
+      }
+    }, {
+      "uid" : "d0603a996b4a91bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653555798384,
+        "stop" : 1653555806297,
+        "duration" : 7913
+      }
+    }, {
+      "uid" : "99e21a2b12b1de46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653555710188,
+        "stop" : 1653555717637,
+        "duration" : 7449
+      }
+    }, {
+      "uid" : "caf037d8bf5e938a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653555643994,
+        "stop" : 1653555652080,
+        "duration" : 8086
+      }
+    }, {
+      "uid" : "5fa93b53a97b9eb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653555555998,
+        "stop" : 1653555564967,
+        "duration" : 8969
+      }
+    }, {
+      "uid" : "8f020d50cd710114",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653555457834,
+        "stop" : 1653555467302,
+        "duration" : 9468
+      }
+    }, {
+      "uid" : "74feb7ec0da44c2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653555273762,
+        "stop" : 1653555283930,
+        "duration" : 10168
+      }
+    }, {
+      "uid" : "bcbbaa856a710cce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653553268637,
+        "stop" : 1653553276919,
+        "duration" : 8282
+      }
+    }, {
+      "uid" : "1bc3ca66eca9fa59",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653553025456,
+        "stop" : 1653553033883,
+        "duration" : 8427
+      }
+    }, {
+      "uid" : "55335798196024c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653552422063,
+        "stop" : 1653552431576,
+        "duration" : 9513
+      }
+    }, {
+      "uid" : "4eb123350174f253",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653551658869,
+        "stop" : 1653551668894,
+        "duration" : 10025
+      }
+    }, {
+      "uid" : "651b76ca206b77c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653548438609,
+        "stop" : 1653548448686,
+        "duration" : 10077
+      }
+    }, {
+      "uid" : "1e2ea842a406d307",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653548273635,
+        "stop" : 1653548281039,
+        "duration" : 7404
+      }
+    }, {
+      "uid" : "3fb66f3247562aea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653548050754,
+        "stop" : 1653548059244,
+        "duration" : 8490
+      }
+    }, {
+      "uid" : "5cee1062c88f7815",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653547631831,
+        "stop" : 1653547640186,
+        "duration" : 8355
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18c78fe0a56697c1.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

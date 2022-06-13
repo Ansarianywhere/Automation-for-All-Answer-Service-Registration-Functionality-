@@ -1,0 +1,62 @@
+{
+  "uid" : "7ed15fcae8d3edb6",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "b391549f1da6e2aecf9c335d143e8139",
+  "time" : {
+    "start" : 1653844752768,
+    "stop" : 1653844762923,
+    "duration" : 10155
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Error: Can't call getValue on element with selector \"#contactName\" because element wasn't found",
+  "statusTrace" : "Error: Can't call getValue on element with selector \"#contactName\" because element wasn't found\n                    at implicitWait (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:34:19)\n                    at Element.elementErrorHandlerCallbackFn (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\middlewares.js:20:29)\n                    at Element.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at ChoosePlan_Singup.verify_All_RegistarionData_For_AC_US (F:\\LearnAutomationPractice\\pageobjects\\/Plans.page.js:78:29)\n                    at World.<anonymous> (F:\\LearnAutomationPractice\\step-definitions\\Registration\\/AnswerConnectUS_Registration.js:21:8)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ed15fcae8d3edb6.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

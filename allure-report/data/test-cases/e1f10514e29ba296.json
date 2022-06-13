@@ -1,0 +1,62 @@
+{
+  "uid" : "e1f10514e29ba296",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "b391549f1da6e2aecf9c335d143e8139",
+  "time" : {
+    "start" : 1653844647641,
+    "stop" : 1653844647832,
+    "duration" : 191
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "TypeError: _Plans.default.registrationData_For_AC_US is not a function",
+  "statusTrace" : "TypeError: _Plans.default.registrationData_For_AC_US is not a function\n                    at World.<anonymous> (F:\\LearnAutomationPractice\\step-definitions\\Registration\\/AnswerConnectUS_Registration.js:21:32)\n                    at World.executeAsync (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:333:27)\n                    at World.testFrameworkFnWrapper (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:51:32)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at wrapPromiseWithTimeout (F:\\LearnAutomationPractice\\node_modules\\@cucumber\\cucumber\\src\\time.ts:56:10)\n                    at Object.run (F:\\LearnAutomationPractice\\node_modules\\@cucumber\\cucumber\\src\\user_code_runner.ts:86:16)\n                    at Object.run (F:\\LearnAutomationPractice\\node_modules\\@cucumber\\cucumber\\src\\runtime\\step_runner.ts:50:20)\n                    at TestCaseRunner.invokeStep (F:\\LearnAutomationPractice\\node_modules\\@cucumber\\cucumber\\src\\runtime\\test_case_runner.ts:130:12)\n                    at TestCaseRunner.runStep (F:\\LearnAutomationPractice\\node_modules\\@cucumber\\cucumber\\src\\runtime\\test_case_runner.ts:307:20)\n                    at F:\\LearnAutomationPractice\\node_modules\\@cucumber\\cucumber\\src\\runtime\\test_case_runner.ts:210:36",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1f10514e29ba296.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

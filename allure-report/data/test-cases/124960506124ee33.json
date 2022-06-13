@@ -1,0 +1,60 @@
+{
+  "uid" : "124960506124ee33",
+  "name" : "Given I am on the home page",
+  "fullName" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data.Given I am on the home page",
+  "historyId" : "65e5d3504aee542bfbacac1e94055fdf",
+  "time" : {
+    "start" : 1653853777884,
+    "stop" : 1653853777904,
+    "duration" : 20
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "124960506124ee33.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

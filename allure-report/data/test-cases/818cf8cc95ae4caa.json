@@ -1,0 +1,379 @@
+{
+  "uid" : "818cf8cc95ae4caa",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "de473b16615c76aceea382e4c3757ed7",
+  "time" : {
+    "start" : 1653655088609,
+    "stop" : 1653655101761,
+    "duration" : 13152
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 38,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "df918846363e8aba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653654335732,
+        "stop" : 1653654347827,
+        "duration" : 12095
+      }
+    }, {
+      "uid" : "3278112566999e99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653652105932,
+        "stop" : 1653652121168,
+        "duration" : 15236
+      }
+    }, {
+      "uid" : "28739950c80c7561",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653650860438,
+        "stop" : 1653650873754,
+        "duration" : 13316
+      }
+    }, {
+      "uid" : "717582f79057a53a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653650060261,
+        "stop" : 1653650095213,
+        "duration" : 34952
+      }
+    }, {
+      "uid" : "8c40224e95aa10bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653647579706,
+        "stop" : 1653647594586,
+        "duration" : 14880
+      }
+    }, {
+      "uid" : "ed70ed0ecf7eecc8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653647492731,
+        "stop" : 1653647492732,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "837a83135f853871",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653646798404,
+        "stop" : 1653646814707,
+        "duration" : 16303
+      }
+    }, {
+      "uid" : "1ab33927d5669234",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653646558208,
+        "stop" : 1653646558209,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "50c299efbb084f84",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653646339601,
+        "stop" : 1653646339602,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ce7f567e36dc1f42",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653645867576,
+        "stop" : 1653645867577,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8b2444d2a235c2b5",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653645126298,
+        "stop" : 1653645126300,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "dc9cb2970c8c5ae1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653644169809,
+        "stop" : 1653644191698,
+        "duration" : 21889
+      }
+    }, {
+      "uid" : "ae855a483bbaab75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653640700608,
+        "stop" : 1653640718489,
+        "duration" : 17881
+      }
+    }, {
+      "uid" : "a04f5ba135daf427",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653640297331,
+        "stop" : 1653640321857,
+        "duration" : 24526
+      }
+    }, {
+      "uid" : "787451ec3160af4d",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653640219447,
+        "stop" : 1653640219449,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ae34517cb2fdd617",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653639958315,
+        "stop" : 1653639973432,
+        "duration" : 15117
+      }
+    }, {
+      "uid" : "e333ec3fcfff5401",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653637792407,
+        "stop" : 1653637808112,
+        "duration" : 15705
+      }
+    }, {
+      "uid" : "78e589b32f599b2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653636191056,
+        "stop" : 1653636201700,
+        "duration" : 10644
+      }
+    }, {
+      "uid" : "aeb17b8bfc7a016a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1653636094220,
+        "stop" : 1653636108995,
+        "duration" : 14775
+      }
+    }, {
+      "uid" : "93a0921d95076b56",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1653633475081,
+        "stop" : 1653633489994,
+        "duration" : 14913
+      }
+    }, {
+      "uid" : "8b3e6b7664ed9b91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653633096099,
+        "stop" : 1653633118774,
+        "duration" : 22675
+      }
+    }, {
+      "uid" : "1c190dc689880725",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653632793580,
+        "stop" : 1653632807057,
+        "duration" : 13477
+      }
+    }, {
+      "uid" : "9dbb6c8b2d0bce40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653632467018,
+        "stop" : 1653632480803,
+        "duration" : 13785
+      }
+    }, {
+      "uid" : "ff7f3e016f429868",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653563262385,
+        "stop" : 1653563277466,
+        "duration" : 15081
+      }
+    }, {
+      "uid" : "7931b2c140ca15d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653555806298,
+        "stop" : 1653555822672,
+        "duration" : 16374
+      }
+    }, {
+      "uid" : "5faa4a4b66ca2b29",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected 'jaminansari@gmail.com' to equal Promise{…}",
+      "time" : {
+        "start" : 1653555717637,
+        "stop" : 1653555731960,
+        "duration" : 14323
+      }
+    }, {
+      "uid" : "d12ecb6c5826e7a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653555652080,
+        "stop" : 1653555669215,
+        "duration" : 17135
+      }
+    }, {
+      "uid" : "d6227aaf9f97cc1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653555564967,
+        "stop" : 1653555580010,
+        "duration" : 15043
+      }
+    }, {
+      "uid" : "708fd474cfaa8034",
+      "status" : "failed",
+      "statusDetails" : "Error: expect(received).toBe(expected) // Object.is equality",
+      "time" : {
+        "start" : 1653555467302,
+        "stop" : 1653555479523,
+        "duration" : 12221
+      }
+    }, {
+      "uid" : "901ba2d5b33d6872",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1653555283932,
+        "stop" : 1653555317871,
+        "duration" : 33939
+      }
+    }, {
+      "uid" : "c1de4b4a9a9e3430",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1653553276920,
+        "stop" : 1653553290479,
+        "duration" : 13559
+      }
+    }, {
+      "uid" : "d06b09799baf8782",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1653553033883,
+        "stop" : 1653553055743,
+        "duration" : 21860
+      }
+    }, {
+      "uid" : "9d756bc6a41ab725",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1653552431576,
+        "stop" : 1653552478291,
+        "duration" : 46715
+      }
+    }, {
+      "uid" : "c3061b5d3bec338a",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"(//*[@class='btn btn-fill full-btn'])[1]\" because element wasn't found",
+      "time" : {
+        "start" : 1653551668894,
+        "stop" : 1653551679009,
+        "duration" : 10115
+      }
+    }, {
+      "uid" : "6ff62c00d5121a50",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected 'jaminansari@gmail.com' to equal Promise{…}",
+      "time" : {
+        "start" : 1653548448686,
+        "stop" : 1653548467150,
+        "duration" : 18464
+      }
+    }, {
+      "uid" : "a2cd53d2cf12e635",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1653548281040,
+        "stop" : 1653548295548,
+        "duration" : 14508
+      }
+    }, {
+      "uid" : "8192825b18fd8209",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected 'Ansari' to equal Promise{…}",
+      "time" : {
+        "start" : 1653548059245,
+        "stop" : 1653548071838,
+        "duration" : 12593
+      }
+    }, {
+      "uid" : "a9db528b827a388e",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected 'Full' to equal Promise{…}",
+      "time" : {
+        "start" : 1653547640187,
+        "stop" : 1653547661879,
+        "duration" : 21692
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "818cf8cc95ae4caa.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

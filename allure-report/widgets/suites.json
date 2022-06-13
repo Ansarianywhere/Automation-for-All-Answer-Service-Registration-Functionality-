@@ -1,0 +1,114 @@
+{
+  "total" : 15,
+  "items" : [ {
+    "uid" : "09cccf3abda3097d396e6b86dc0eb1f2",
+    "name" : "Register , Registration functionlity for Answerforce: Register in AnsewerForce with valid data",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 2,
+      "skipped" : 1,
+      "passed" : 20,
+      "unknown" : 0,
+      "total" : 24
+    }
+  }, {
+    "uid" : "5a7b310c66cc62be53276c00a0cb2e9e",
+    "name" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "55207e2ad6262a09b788014989c7c4c6",
+    "name" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "84792368d1a0b4276925c16d8a31d771",
+    "name" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "633ad6f6089bd6a8c73e1480cadc7a20",
+    "name" : "Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "a832f5167b345275c780403ee44d2887",
+    "name" : "Register , Registration functionlity for Answerforce US: Register in AnsewerForce with valid data",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 1,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "e404156ffe214237a9f87352e36683ef",
+    "name" : "Register , Registration functionlity for AnswerConnect: Register in AnsewerConnect with valid data",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "c399e6e7ee79275ea98b566f75f24d14",
+    "name" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "837e0a7bc250af75868a8dacf5b141ac",
+    "name" : "Register , Registration functionlity for HelloSells: Register in Hellosells with valid data",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "9cdd12f8078a0f5380185da8ffc4c7c3",
+    "name" : "Register , Registration functionlity for Answerforce CA: Register in AnsewerForce CA with valid data",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  } ]
+}

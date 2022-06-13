@@ -1,0 +1,86 @@
+{
+  "uid" : "83add8a81c73c2f5",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Register , Registration functionlity for Answerforce US: Register in AnsewerForce with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "3c229e51560146e38206b92b35bba657",
+  "time" : {
+    "start" : 1654593959815,
+    "stop" : 1654593959816,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce US: Register in AnsewerForce with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "de822e54306ad289",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654585705515,
+        "stop" : 1654585744479,
+        "duration" : 38964
+      }
+    }, {
+      "uid" : "d2edc29dc91d773f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654585610282,
+        "stop" : 1654585610283,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6c4da282c5e5ecc2",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654585371012,
+        "stop" : 1654585371014,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "83add8a81c73c2f5.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

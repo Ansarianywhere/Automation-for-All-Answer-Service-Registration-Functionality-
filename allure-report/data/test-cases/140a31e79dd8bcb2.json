@@ -1,0 +1,78 @@
+{
+  "uid" : "140a31e79dd8bcb2",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "fullName" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data.When I Navigate to the Register page and set the value for All mandantory fields",
+  "historyId" : "ee67c1d53f806430d9bab26c5f3f401",
+  "time" : {
+    "start" : 1653853946617,
+    "stop" : 1653853954736,
+    "duration" : 8119
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I Navigate to the Register page and set the value for All mandantory fields"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for LexReception: Register in LexReception with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ea219c6b9c9a08e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653853777904,
+        "stop" : 1653853787307,
+        "duration" : 9403
+      }
+    }, {
+      "uid" : "7f5ddd82c3917ddd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653853682319,
+        "stop" : 1653853694326,
+        "duration" : 12007
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "140a31e79dd8bcb2.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

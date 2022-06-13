@@ -1,0 +1,135 @@
+{
+  "uid" : "433ce563a0ab8730",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "fullName" : "Register , Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data.When I Navigate to the Register page and set the value for All mandantory fields",
+  "historyId" : "86360c1294b07dfd4da5f795c3d51dbe",
+  "time" : {
+    "start" : 1653897346158,
+    "stop" : 1653897359346,
+    "duration" : 13188
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 9,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I Navigate to the Register page and set the value for All mandantory fields"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for AnswerConnect CA: Register in AnsewerConnect CA with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "185b04a902abb42a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: this.registration_For_AnswerConnet is not a function",
+      "time" : {
+        "start" : 1653895722504,
+        "stop" : 1653895725839,
+        "duration" : 3335
+      }
+    }, {
+      "uid" : "e8aa04207d550b5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653843645334,
+        "stop" : 1653843646845,
+        "duration" : 1511
+      }
+    }, {
+      "uid" : "a9dd911bba52d268",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653839564908,
+        "stop" : 1653839565898,
+        "duration" : 990
+      }
+    }, {
+      "uid" : "cbcf41d45c5c74d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653839369036,
+        "stop" : 1653839370242,
+        "duration" : 1206
+      }
+    }, {
+      "uid" : "ba8db93265b18d98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653839090704,
+        "stop" : 1653839091635,
+        "duration" : 931
+      }
+    }, {
+      "uid" : "73bfe63879fff433",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653838934862,
+        "stop" : 1653838935999,
+        "duration" : 1137
+      }
+    }, {
+      "uid" : "9022ee75fc5e1bc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653838776281,
+        "stop" : 1653838776293,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "a5bdce27bdac3a1b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653838517481,
+        "stop" : 1653838517482,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9234e54a10bdde9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653838445273,
+        "stop" : 1653838445326,
+        "duration" : 53
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "433ce563a0ab8730.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

@@ -1,0 +1,142 @@
+{
+  "uid" : "fb8c11fe07fb062f",
+  "name" : "Given I am on the home page",
+  "fullName" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data.Given I am on the home page",
+  "historyId" : "4b4d80ca7145dc41dd9c9627c6d9c291",
+  "time" : {
+    "start" : 1653845790494,
+    "stop" : 1653845796647,
+    "duration" : 6153
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 10,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the home page"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for AnswerConnect US: Register in AnsewerConnect US with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2f5508e2eddbad55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653845723438,
+        "stop" : 1653845727137,
+        "duration" : 3699
+      }
+    }, {
+      "uid" : "72129a3e2fb55c5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653845466881,
+        "stop" : 1653845470912,
+        "duration" : 4031
+      }
+    }, {
+      "uid" : "907e32fd6e067452",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653845409327,
+        "stop" : 1653845413009,
+        "duration" : 3682
+      }
+    }, {
+      "uid" : "cb7a384931f799c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653844980863,
+        "stop" : 1653844984662,
+        "duration" : 3799
+      }
+    }, {
+      "uid" : "258d2be2c014ecd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653844745741,
+        "stop" : 1653844750057,
+        "duration" : 4316
+      }
+    }, {
+      "uid" : "f0f394d5aac0ce8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653844639598,
+        "stop" : 1653844644497,
+        "duration" : 4899
+      }
+    }, {
+      "uid" : "2e6d45e8ff4bcdc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653844473840,
+        "stop" : 1653844479353,
+        "duration" : 5513
+      }
+    }, {
+      "uid" : "d8070dfa7648088b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653844080859,
+        "stop" : 1653844086215,
+        "duration" : 5356
+      }
+    }, {
+      "uid" : "3fe2207510ce7f5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653843996165,
+        "stop" : 1653844004949,
+        "duration" : 8784
+      }
+    }, {
+      "uid" : "dbaacd248cf4b9ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653843911733,
+        "stop" : 1653843917969,
+        "duration" : 6236
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb8c11fe07fb062f.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

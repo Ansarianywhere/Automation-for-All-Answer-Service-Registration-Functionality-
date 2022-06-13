@@ -1,0 +1,281 @@
+{
+  "uid" : "846db574add6e1a9",
+  "name" : "When I set the value for All mandantory fields",
+  "fullName" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data.When I set the value for All mandantory fields",
+  "historyId" : "101984895136362a7f6af8edcb24cf70",
+  "time" : {
+    "start" : 1654844284951,
+    "stop" : 1654844284961,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 27,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I set the value for All mandantory fields"
+  }, {
+    "name" : "package",
+    "value" : "Registration functionlity for AnswerConnect UK: Register in AnsewerConnect with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9e44088d4fb34f58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654773526271,
+        "stop" : 1654773527498,
+        "duration" : 1227
+      }
+    }, {
+      "uid" : "d1296c4130f65288",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654773000666,
+        "stop" : 1654773002117,
+        "duration" : 1451
+      }
+    }, {
+      "uid" : "37332267af4027c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654772813054,
+        "stop" : 1654772814289,
+        "duration" : 1235
+      }
+    }, {
+      "uid" : "3091a5fbf7954718",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654770604090,
+        "stop" : 1654770615729,
+        "duration" : 11639
+      }
+    }, {
+      "uid" : "421063b120aa14a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654768249506,
+        "stop" : 1654768254000,
+        "duration" : 4494
+      }
+    }, {
+      "uid" : "1c6c617cec76e05b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654767585632,
+        "stop" : 1654767586869,
+        "duration" : 1237
+      }
+    }, {
+      "uid" : "1737192dd6e02f48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654767506191,
+        "stop" : 1654767507435,
+        "duration" : 1244
+      }
+    }, {
+      "uid" : "341894564436bfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654767432104,
+        "stop" : 1654767433418,
+        "duration" : 1314
+      }
+    }, {
+      "uid" : "b62d3fe561bc57b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654767230748,
+        "stop" : 1654767232034,
+        "duration" : 1286
+      }
+    }, {
+      "uid" : "c291cb947d6d3a9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654767148536,
+        "stop" : 1654767151326,
+        "duration" : 2790
+      }
+    }, {
+      "uid" : "da1e6868906c4680",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654767011193,
+        "stop" : 1654767015005,
+        "duration" : 3812
+      }
+    }, {
+      "uid" : "dc7b56a3ddeff780",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654766864903,
+        "stop" : 1654766878786,
+        "duration" : 13883
+      }
+    }, {
+      "uid" : "af8fe3eebe6eb67d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654766768657,
+        "stop" : 1654766788681,
+        "duration" : 20024
+      }
+    }, {
+      "uid" : "2dfde290f4255dad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654766187646,
+        "stop" : 1654766196978,
+        "duration" : 9332
+      }
+    }, {
+      "uid" : "d042c3d4c0b9c947",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654762362598,
+        "stop" : 1654762377809,
+        "duration" : 15211
+      }
+    }, {
+      "uid" : "7b0764b1015b4b75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654754052636,
+        "stop" : 1654754074163,
+        "duration" : 21527
+      }
+    }, {
+      "uid" : "bc619476f1605dcd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654696025798,
+        "stop" : 1654696034834,
+        "duration" : 9036
+      }
+    }, {
+      "uid" : "d8be89976b719426",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654695488290,
+        "stop" : 1654695502423,
+        "duration" : 14133
+      }
+    }, {
+      "uid" : "1d8e6999dddbc29a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654695004292,
+        "stop" : 1654695017137,
+        "duration" : 12845
+      }
+    }, {
+      "uid" : "571430e7cdf7178d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654684093640,
+        "stop" : 1654684103617,
+        "duration" : 9977
+      }
+    }, {
+      "uid" : "b65bfde21c82fae4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654683931132,
+        "stop" : 1654683943512,
+        "duration" : 12380
+      }
+    }, {
+      "uid" : "a2d31581c54f78b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654682066516,
+        "stop" : 1654682086618,
+        "duration" : 20102
+      }
+    }, {
+      "uid" : "d5885c4198bd103f",
+      "status" : "broken",
+      "statusDetails" : "TypeError: elem[prop] is not a function",
+      "time" : {
+        "start" : 1654681954848,
+        "stop" : 1654681959685,
+        "duration" : 4837
+      }
+    }, {
+      "uid" : "3df066625c0c633a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1654680462895,
+        "stop" : 1654680462896,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "5183baad7d88eafa",
+      "status" : "broken",
+      "statusDetails" : "Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1654680353665,
+        "stop" : 1654680353756,
+        "duration" : 91
+      }
+    }, {
+      "uid" : "42f94de7854cf167",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654671529090,
+        "stop" : 1654671534380,
+        "duration" : 5290
+      }
+    }, {
+      "uid" : "57bda7875f2aa261",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call click on element with selector \"(//a[text()='Plans & Pricing'])[2]\" because element wasn't found",
+      "time" : {
+        "start" : 1654670002164,
+        "stop" : 1654670012495,
+        "duration" : 10331
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "846db574add6e1a9.json",
+  "parameterValues" : [ "chrome-102.0.5005.63" ]
+}

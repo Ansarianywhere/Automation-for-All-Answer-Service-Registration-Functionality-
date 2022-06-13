@@ -1,0 +1,62 @@
+{
+  "uid" : "caf75398217c0150",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "843f5c5f7290a51870f52e3516fe163f",
+  "time" : {
+    "start" : 1653892142697,
+    "stop" : 1653892150614,
+    "duration" : 7917
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element click intercepted: element click intercepted: Element <a href=\"https://signup.staging.answerforce.co.uk/signup?leadUniquePin=c9f2bfce-efae-4029-85b3-dd79509749aa&amp;agentpeopleid=f0244895-e6ff-4347-8e99-cc9302a9882a&amp;testcreditcard=true&amp;planid=4832&amp;category=LiveAnswer\" class=\"cta trial-cta\" id=\"growth-purchase-link\">...</a> is not clickable at point (294, 570). Other element would receive the click: <div role=\"banner\" class=\"cookie-pop desktop show\" id=\"cookie-banner\">...</div>",
+  "statusTrace" : "element click intercepted: element click intercepted: Element <a href=\"https://signup.staging.answerforce.co.uk/signup?leadUniquePin=c9f2bfce-efae-4029-85b3-dd79509749aa&amp;agentpeopleid=f0244895-e6ff-4347-8e99-cc9302a9882a&amp;testcreditcard=true&amp;planid=4832&amp;category=LiveAnswer\" class=\"cta trial-cta\" id=\"growth-purchase-link\">...</a> is not clickable at point (294, 570). Other element would receive the click: <div role=\"banner\" class=\"cookie-pop desktop show\" id=\"cookie-banner\">...</div>\n                  (Session info: chrome=102.0.5005.62)\n                    at getErrorFromResponseBody (F:\\LearnAutomationPractice\\node_modules\\webdriver\\build\\utils.js:197:12)\n                    at NodeJSRequest._request (F:\\LearnAutomationPractice\\node_modules\\webdriver\\build\\request\\index.js:166:60)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at Element.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Element.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Element.elementErrorHandlerCallbackFn (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\middlewares.js:24:32)\n                    at Element.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Element.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)\n                    at Element.elementErrorHandlerCallbackFn (F:\\LearnAutomationPractice\\node_modules\\webdriverio\\build\\middlewares.js:24:32)\n                    at Element.wrapCommandFn (F:\\LearnAutomationPractice\\node_modules\\@wdio\\utils\\build\\shim.js:137:29)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "caf75398217c0150.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

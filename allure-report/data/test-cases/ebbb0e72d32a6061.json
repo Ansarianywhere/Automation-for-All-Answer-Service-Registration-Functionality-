@@ -1,0 +1,95 @@
+{
+  "uid" : "ebbb0e72d32a6061",
+  "name" : "Then I click the choose plan Button and verify the given details",
+  "fullName" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data.Then I click the choose plan Button and verify the given details",
+  "historyId" : "ff5dd53189c42fd0652d4043b5215441",
+  "time" : {
+    "start" : 1653854714661,
+    "stop" : 1653854728510,
+    "duration" : 13849
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError",
+  "statusTrace" : "AssertionError\n                    + expected - actual\n                \n                    -Ansari\n                    +Ansari \n                \n                    at ChoosePlan_Singup.verify_All_RegistrationData_For_WellReceived (F:\\LearnAutomationPractice\\pageobjects\\/Plans.page.js:119:16)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at World.<anonymous> (F:\\LearnAutomationPractice\\step-definitions\\Registration\\/WellReceived_Register.js:23:4)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I click the choose plan Button and verify the given details"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for WellRececived: Register in WellReceived with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8c74449acd4ac340",
+      "status" : "broken",
+      "statusDetails" : "ReferenceError: companyName is not defined",
+      "time" : {
+        "start" : 1653854632738,
+        "stop" : 1653854646170,
+        "duration" : 13432
+      }
+    }, {
+      "uid" : "fbb698e635a9e149",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1653854569359,
+        "stop" : 1653854583410,
+        "duration" : 14051
+      }
+    }, {
+      "uid" : "f33af63785eed7de",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected 'Full' to equal Promise{…}",
+      "time" : {
+        "start" : 1653854446899,
+        "stop" : 1653854459440,
+        "duration" : 12541
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ebbb0e72d32a6061.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}

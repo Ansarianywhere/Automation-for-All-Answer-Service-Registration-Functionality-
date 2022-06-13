@@ -1,0 +1,219 @@
+{
+  "uid" : "f4e9e8f6cda06d22",
+  "name" : "When I Navigate to the Register page and set the value for All mandantory fields",
+  "fullName" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data.When I Navigate to the Register page and set the value for All mandantory fields",
+  "historyId" : "583b440d866ff110186753d2c919d123",
+  "time" : {
+    "start" : 1653893338417,
+    "stop" : 1653893340166,
+    "duration" : 1749
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 19,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "testClass",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I Navigate to the Register page and set the value for All mandantory fields"
+  }, {
+    "name" : "package",
+    "value" : "Register , Registration functionlity for Answerforce UK: Register in AnsewerForce UK with valid data"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.62"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "adcba83ee5d72fa4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653893119530,
+        "stop" : 1653893121657,
+        "duration" : 2127
+      }
+    }, {
+      "uid" : "a099a6541492ea55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653892395713,
+        "stop" : 1653892396762,
+        "duration" : 1049
+      }
+    }, {
+      "uid" : "154cb5724befaeb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653892141622,
+        "stop" : 1653892142697,
+        "duration" : 1075
+      }
+    }, {
+      "uid" : "4f44d8b267f408e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653892017904,
+        "stop" : 1653892018956,
+        "duration" : 1052
+      }
+    }, {
+      "uid" : "a2f42ad3722510d6",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'click')",
+      "time" : {
+        "start" : 1653891682468,
+        "stop" : 1653891682971,
+        "duration" : 503
+      }
+    }, {
+      "uid" : "7dd291cee50561c8",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'click')",
+      "time" : {
+        "start" : 1653891485891,
+        "stop" : 1653891486190,
+        "duration" : 299
+      }
+    }, {
+      "uid" : "4b5f38a49559bbb",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653891264442,
+        "stop" : 1653891264442,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bcfdfb23a6bcaf85",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653891130113,
+        "stop" : 1653891130114,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "87258e5794c1eb0c",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'click')",
+      "time" : {
+        "start" : 1653890947108,
+        "stop" : 1653890947903,
+        "duration" : 795
+      }
+    }, {
+      "uid" : "4a6de6397d728aee",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'click')",
+      "time" : {
+        "start" : 1653848403933,
+        "stop" : 1653848404753,
+        "duration" : 820
+      }
+    }, {
+      "uid" : "669ea948f94486e9",
+      "status" : "broken",
+      "statusDetails" : "TypeError: Cannot read properties of undefined (reading 'click')",
+      "time" : {
+        "start" : 1653848134327,
+        "stop" : 1653848134794,
+        "duration" : 467
+      }
+    }, {
+      "uid" : "bf32885be4843ab1",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653847894951,
+        "stop" : 1653847894952,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4d1b250c63edd1cf",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653847741964,
+        "stop" : 1653847741965,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3ace9b55c24d8694",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653847491728,
+        "stop" : 1653847491737,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "a56187e42403f41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653611027,
+        "stop" : 1653653611038,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "faca48c8540b6053",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653481026,
+        "stop" : 1653653481042,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "87f49d9394c29d85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653293759,
+        "stop" : 1653653293776,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "9a3d92020c3b03d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653165783,
+        "stop" : 1653653165794,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "70cdcf4741447df1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653653078997,
+        "stop" : 1653653079013,
+        "duration" : 16
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4e9e8f6cda06d22.json",
+  "parameterValues" : [ "chrome-102.0.5005.62" ]
+}
