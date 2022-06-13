@@ -39,11 +39,11 @@ class ChoosePlan_Singup {
   // AnswerConnectUS
   async verify_All_RegistarionData_For_AC_US() {
     await Helper.click_on_element(Plans_Page.choosePlan_AC_US, PropertiesFile.waitTime.maximumWait);
-    const contactName = await Helper.getValue_on_element(this.signUp_conatct_Name, PropertiesFile.waitTime.maximumWait);
+    const contactName = await Helper.getValue_on_element(this.signUp_conatact_Name, PropertiesFile.waitTime.maximumWait);
     const email = await Helper.getValue_on_element(this.signUp_email, PropertiesFile.waitTime.maximumWait);
     const phone = await Helper.getValue_on_element(this.signUp_phone, PropertiesFile.waitTime.maximumWait);
 
-    assert.equal(PropertiesFile.registration_TestData.RegistrationCompanyName, contactName);
+    assert.equal(PropertiesFile.registration_TestData.RegistrationName, contactName);
     assert.equal(PropertiesFile.registration_TestData.RegistrationEmail, email);
     assert.equal(PropertiesFile.registration_TestData.RegistrationPhone, phone);
   }
@@ -51,37 +51,37 @@ class ChoosePlan_Singup {
   // AnswerConnect CA
   async verify_All_RegistrationData_For_AC_CA() {
     await Helper.click_on_element(Plans_Page.choosePlan_AC_US, PropertiesFile.waitTime.maximumWait);
-    const contactName = await Helper.getValue_on_element(this.signUp_conatct_Name, PropertiesFile.waitTime.maximumWait);
+    const contactName = await Helper.getValue_on_element(this.signUp_conatact_Name, PropertiesFile.waitTime.maximumWait);
     const email = await Helper.getValue_on_element(this.signUp_email, PropertiesFile.waitTime.maximumWait);
     const phone = await Helper.getValue_on_element(this.signUp_phone, PropertiesFile.waitTime.maximumWait);
 
-    assert.equal(PropertiesFile.registration_TestData.RegistrationCompanyName, contactName);
+    assert.equal(PropertiesFile.registration_TestData.RegistrationName, contactName);
     assert.equal(PropertiesFile.registration_TestData.RegistrationEmail, email);
     assert.equal(PropertiesFile.registration_TestData.RegistrationPhone, phone);
   }
 
   // AnswerForce US
-  async verify_All_RegistrationData_For_AnswerForce(expectCompanyName, expectContactName, expectEmail, expectPhone) {
+  async verify_All_RegistrationData_For_AnswerForce() {
     await Helper.click_on_element(Plans_Page.choose_planForAnswerForceUS, PropertiesFile.waitTime.maximumWait);
     const companyName = await Helper.getValue_on_element(this.signUp_company_Name, PropertiesFile.waitTime.maximumWait);
-    const contactName = await (await this.signUp_conatct_Name).getValue();
+    const contactName = await Helper.getValue_on_element(this.signUp_conatact_Name, PropertiesFile.waitTime.maximumWait);
     const email = await Helper.getValue_on_element(this.signUp_email, PropertiesFile.waitTime.maximumWait);
     const phone = await Helper.getValue_on_element(this.signUp_phone, PropertiesFile.waitTime.maximumWait);
 
     //    expect(companyName).toBe("Full"); --- validatations
     //    expect(contactName).toBe("Ansari ");
 
-    assert.equal(expectCompanyName, companyName);
-    assert.equal(expectContactName, contactName);
-    assert.equal(expectEmail, email);
-    assert.equal(expectPhone, phone);
+    assert.equal(PropertiesFile.registration_TestData.RegistrationCompanyName, companyName);
+    assert.equal(PropertiesFile.registration_TestData.RegistrationName, contactName);
+    assert.equal(PropertiesFile.registration_TestData.RegistrationEmail, email);
+    assert.equal(PropertiesFile.registration_TestData.RegistrationPhone, phone);
   }
 
   // AnswerForce Uk
   async verify_All_RegistrationData_For_AF_UK() {
-    await Helper.click_on_element(Plans_Page.Plans_Page.ChoosePlan_AnswerForce_UK, PropertiesFile.waitTime.maximumWait);
-    const contactName = await Helper.getValue_on_element(this.this.signUp_conatct_Name, PropertiesFile.waitTime.maximumWait);
-    const email = await Helper.getValue_on_element(this.this.signUp_email, PropertiesFile.waitTime.maximumWait);
+    await Helper.click_on_element(Plans_Page.ChoosePlan_AnswerForce_UK, PropertiesFile.waitTime.maximumWait);
+    const contactName = await Helper.getValue_on_element(this.signUp_conatact_Name, PropertiesFile.waitTime.maximumWait);
+    const email = await Helper.getValue_on_element(this.signUp_email, PropertiesFile.waitTime.maximumWait);
     const phone = await Helper.getValue_on_element(this.signUp_phone, PropertiesFile.waitTime.maximumWait);
 
     assert.equal(PropertiesFile.registration_TestData.RegistrationName, contactName);
@@ -93,11 +93,11 @@ class ChoosePlan_Singup {
   async verify_All_RegistrationData_For_AF_CA() {
     await Helper.click_on_element(Plans_Page.Chooseplan_AF_CA, PropertiesFile.waitTime.maximumWait);
     const companyName = await Helper.getValue_on_element(this.signUp_company_Name, PropertiesFile.waitTime.maximumWait);
-    const contactName = await Helper.getValue_on_element(this.this.signUp_conatct_Name, PropertiesFile.waitTime.maximumWait);
-    const email = await Helper.getValue_on_element(this.this.signUp_email, PropertiesFile.waitTime.maximumWait);
+    const contactName = await Helper.getValue_on_element(this.signUp_conatact_Name, PropertiesFile.waitTime.maximumWait);
+    const email = await Helper.getValue_on_element(this.signUp_email, PropertiesFile.waitTime.maximumWait);
     const phone = await Helper.getValue_on_element(this.signUp_phone, PropertiesFile.waitTime.maximumWait);
 
-    assert.equal(PropertiesFile.registration_TestData.RegistrationCompanyName, companyName);
+    assert.equal(PropertiesFile.registration_TestData.RegistrationName, companyName);
     assert.equal(PropertiesFile.registration_TestData.RegistrationCompanyName, contactName);
     assert.equal(PropertiesFile.registration_TestData.RegistrationEmail, email);
     assert.equal(PropertiesFile.registration_TestData.RegistrationPhone, phone);
@@ -106,9 +106,9 @@ class ChoosePlan_Singup {
   // LexReceptions
   async verify_All_RegistrationData_For_LexReception() {
     await Helper.click_on_element(Plans_Page.choosePlan_ForLexReception, PropertiesFile.waitTime.maximumWait);
-    const contactName = await Helper.getValue_on_element(this.this.signUp_conatct_Name, PropertiesFile.waitTime.maximumWait);
+    const contactName = await Helper.getValue_on_element(this.signUp_conatact_Name, PropertiesFile.waitTime.maximumWait);
     const companyName = await Helper.getValue_on_element(this.signUp_company_Name, PropertiesFile.waitTime.maximumWait);
-    const email = await Helper.getValue_on_element(this.this.signUp_email, PropertiesFile.waitTime.maximumWait);
+    const email = await Helper.getValue_on_element(this.signUp_email, PropertiesFile.waitTime.maximumWait);
     const phone = await Helper.getValue_on_element(this.signUp_phone, PropertiesFile.waitTime.maximumWait);
 
     assert.equal(PropertiesFile.registration_TestData.RegistrationName, contactName);
@@ -120,8 +120,8 @@ class ChoosePlan_Singup {
   // HelloSells
   async verify_All_RegistrationData_For_HelloSells() {
     await Helper.click_on_element(Plans_Page.chooosePlansForHelloSells, PropertiesFile.waitTime.maximumWait);
-    const contactName = await Helper.getValue_on_element(this.this.signUp_conatct_Name, PropertiesFile.waitTime.maximumWait);
-    const email = await Helper.getValue_on_element(this.this.signUp_email, PropertiesFile.waitTime.maximumWait);
+    const contactName = await Helper.getValue_on_element(this.signUp_conatact_Name, PropertiesFile.waitTime.maximumWait);
+    const email = await Helper.getValue_on_element(this.signUp_email, PropertiesFile.waitTime.maximumWait);
     const phone = await Helper.getValue_on_element(this.signUp_phone, PropertiesFile.waitTime.maximumWait);
 
     assert.equal(PropertiesFile.registration_TestData.RegistrationName, contactName);
@@ -132,8 +132,8 @@ class ChoosePlan_Singup {
   // WellReceived
   async verify_All_RegistrationData_For_WellReceived() {
     await Helper.click_on_element(Plans_Page.choosePlanButton_ForWellReceived, PropertiesFile.waitTime.maximumWait);
-    const contactName = await Helper.getValue_on_element(this.this.signUp_conatct_Name, PropertiesFile.waitTime.maximumWait);
-    const email = await Helper.getValue_on_element(this.this.signUp_email, PropertiesFile.waitTime.maximumWait);
+    const contactName = await Helper.getValue_on_element(this.signUp_conatact_Name, PropertiesFile.waitTime.maximumWait);
+    const email = await Helper.getValue_on_element(this.signUp_email, PropertiesFile.waitTime.maximumWait);
     const phone = await Helper.getValue_on_element(this.signUp_phone, PropertiesFile.waitTime.maximumWait);
 
     assert.equal(PropertiesFile.registration_TestData.RegistrationName, contactName);

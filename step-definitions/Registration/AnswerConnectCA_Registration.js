@@ -1,5 +1,5 @@
-/* eslint-disable import/no-named-as-default */
 /* eslint-disable linebreak-style */
+/* eslint-disable import/no-named-as-default */
 /* eslint-disable import/no-extraneous-dependencies */
 /* eslint-disable linebreak-style */
 /* eslint-disable camelcase */

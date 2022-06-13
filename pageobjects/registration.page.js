@@ -71,7 +71,7 @@ class Registration {
   async registrationData_For_AnswerForceUK() {
     await Helper.setValue_on_element(this.AF_UK_nameForm, PropertiesFile.registration_TestData.RegistrationName, PropertiesFile.waitTime.maximumWait);
     await Helper.setValue_on_element(this.AF_UK_emailForm, PropertiesFile.registration_TestData.RegistrationEmail, PropertiesFile.waitTime.maximumWait);
-    await Helper.setValue_on_element(this.AF_UK_phoneForm, PropertiesFile.RegistrationPhone, PropertiesFile.waitTime.maximumWait);
+    await Helper.setValue_on_element(this.AF_UK_phoneForm, PropertiesFile.registration_TestData.RegistrationPhone, PropertiesFile.waitTime.maximumWait);
     await Helper.click_on_element(this.AF_UK_RegistrationPagecheckBox, PropertiesFile.waitTime.maximumWait);
     await Helper.click_on_element(this.AF_UK_ContineButton, PropertiesFile.waitTime.maximumWait);
   }
@@ -108,7 +108,7 @@ class Registration {
 
   async registration_For_HelloSells() {
     await Helper.setValue_on_element(this.registraiotn_name_form, PropertiesFile.registration_TestData.RegistrationName, PropertiesFile.waitTime.maximumWait);
-    await Helper.setValue_on_element(this.registration_companyName_form, PropertiesFile.registration_TestData.RegistrationCompanyName, PropertiesFile.waitTime.maximumWait);
+    await Helper.setValue_on_element(this.registration_email_form, PropertiesFile.registration_TestData.RegistrationEmail, PropertiesFile.waitTime.maximumWait);
     await Helper.setValue_on_element(this.registration_phone_form, PropertiesFile.registration_TestData.RegistrationPhone, PropertiesFile.waitTime.maximumWait);
     await Helper.click_on_element(this.view_plans_and_prices_hellosells_button, PropertiesFile.waitTime.maximumWait);
   }

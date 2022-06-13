@@ -27,17 +27,17 @@ exports.config = {
   // will be called from there.
   specs: [
 
-    './features/Registration/AnswerConnectUK_Registration.feature',
+    // './features/Registration/AnswerConnectUK_Registration.feature',
     // './features/Registration/AnswerConnectCA_Registration.feature',
-    // './features/Registration/AnswerConnectUS_Registration.feature'
+    // './features/Registration/AnswerConnectUS_Registration.feature',
 
-    // './features/Registration/AnswerForceUS_Registration.feature'
-    // './features/Registration/AnswerForceCA_Registration.feature'
-    // './features/Registration/AnswerForceUk_Registration.feature'
+    // './features/Registration/AnswerForceUS_Registration.feature',
+    // './features/Registration/AnswerForceCA_Registration.feature',
+    // './features/Registration/AnswerForceUk_Registration.feature',
 
-    // './features/Registration/LexReception_Register.feature'
-    // './features/Registration/HelloSells_Register.feature'
-    // './features/Registration/WellReceived_Registration.feature'
+    // './features/Registration/LexReception_Registration.feature',
+    // './features/Registration/HelloSells_Registration.feature',
+    './features/Registration/WellReceived_Registration.feature',
   ],
   suites: {
     Registration: [
@@ -181,16 +181,17 @@ exports.config = {
   cucumberOpts: {
     // <string[]> (file/dir) require files before executing features
 
-    require: ['./step-definitions/Registration/AnswerConnectUK_Registration.js',
+    require: [// './step-definitions/Registration/AnswerConnectUK_Registration.js',
       // './step-definitions/Registration/AnswerConnectCA_Registration.js',
       // './step-definitions/Registration/AnswerConnectUS_Registration.js',
 
-      // './step-definitions/Registration/AnswerForceUS_Register.js',
+      // './step-definitions/Registration/AnswerForceUS_Registration.js',
       // './step-definitions/Registration/AnswerForceCA_Registration.js',
       // './step-definitions/Registration/AnswerForceUK_Registration.js',
+
       // './step-definitions/Registration/LexReception_Registration.js',
-      // './step-definitions/Registration/HelloSells_register.js',
-      // './step-definitions/Registration/WellReceived_Register.js',
+      // './step-definitions/Registration/HelloSells_registration.js',
+      './step-definitions/Registration/WellReceived_Registration.js',
     ],
 
     // <boolean> show full backtrace for errors

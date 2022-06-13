@@ -90,11 +90,11 @@ class HomePage {
 
   // HelloSells
   get plansPrices_ButtonForHelloSells() {
-    return $('(//a[text()=\'Plans & Pricing\'])[3]');
+    return $('(//a[text()=\'Plans & Pricing\'])[1]');
   }
 
   async openHomePageForHelloSells() {
-    await Helper.launchBrowser(PropertiesFile.browserUrl.Wellreceived);
+    await Helper.launchBrowser(PropertiesFile.browserUrl.Hellosells);
     await Helper.click_on_element(this.plansPrices_ButtonForHelloSells, PropertiesFile.waitTime.maximumWait);
   }
 }
