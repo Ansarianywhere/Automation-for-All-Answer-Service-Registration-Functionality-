@@ -1,4 +1,5 @@
 /* eslint-disable linebreak-style */
+/* eslint-disable quotes */
 /* eslint-disable camelcase */
 /* eslint-disable indent */
 /* eslint-disable no-undef */
@@ -6,6 +7,7 @@
 /* eslint-disable class-methods-use-this */
 class Plans_Page {
   // Answerforce choose plan button elements (US ,UK , CA)
+  // eslint-disable-next-line quotes
   get choose_planForAnswerForceUS() { return $("(//a[text()='Choose'])[1]"); }
 
   get ChoosePlan_AnswerForce_UK() { return $("(//a[text()='Choose'])[2]"); }

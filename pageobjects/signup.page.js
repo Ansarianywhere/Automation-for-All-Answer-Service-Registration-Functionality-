@@ -6,8 +6,10 @@
 /* eslint-disable class-methods-use-this */
 /* eslint-disable linebreak-style */
 /* eslint-disable camelcase */
+
 import { assert } from 'chai';
 import PropertiesFile from '../utilites/configProperties';
+// eslint-disable-next-line import/no-unresolved
 import Plans_Page from '../pageobjects/plans.page';
 import Helper from '../utilites/helper';
 

@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /* eslint-disable import/no-extraneous-dependencies */
 /* eslint-disable no-unused-vars */
 /* eslint-disable no-undef */
@@ -26,8 +27,8 @@ exports.config = {
   // will be called from there.
   specs: [
 
-    // './features/Registration/AnswerConnectUK_Registration.feature',
-    './features/Registration/AnswerConnectCA_Registration.feature',
+    './features/Registration/AnswerConnectUK_Registration.feature',
+    // './features/Registration/AnswerConnectCA_Registration.feature',
     // './features/Registration/AnswerConnectUS_Registration.feature'
 
     // './features/Registration/AnswerForceUS_Registration.feature'
@@ -180,8 +181,8 @@ exports.config = {
   cucumberOpts: {
     // <string[]> (file/dir) require files before executing features
 
-    require: [// './step-definitions/Registration/AnswerConnectUK_Registration.js',
-      './step-definitions/Registration/AnswerConnectCA_Registration.js',
+    require: ['./step-definitions/Registration/AnswerConnectUK_Registration.js',
+      // './step-definitions/Registration/AnswerConnectCA_Registration.js',
       // './step-definitions/Registration/AnswerConnectUS_Registration.js',
 
       // './step-definitions/Registration/AnswerForceUS_Register.js',

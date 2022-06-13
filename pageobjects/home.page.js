@@ -41,7 +41,7 @@ class HomePage {
   }
 
   // AnswerForce us
-  get seePrices_buttons() { return $("(//a[text()='See Prices'])[2]"); }
+  get seePrices_buttons() { return $('(//a[text()=\'See Prices\'])[2]'); }
 
   async openHomePageForAnswerForce() {
     await Helper.launchBrowser(PropertiesFile.browserUrl.AnswerForceUS);
